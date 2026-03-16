@@ -1,0 +1,100 @@
+extends: default
+
+page:
+  layout: portrait
+  margin: [0.75in, 0.75in, 0.75in, 0.8in]
+  margin_inner: 0.8in
+  margin_outer: 0.625in
+  size: [6in, 9in]
+
+base:
+  font_family: Noto Serif
+  font_size: 11
+  line_height_length: 15.4
+  line_height: 1.4
+  font_color: #333333
+
+vertical_spacing: 12
+
+heading:
+  font_family: Noto Serif
+  font_style: bold
+  font_color: #333333
+  h1_font_size: 24
+  h1_align: center
+  h2_font_size: 18
+  h2_align: center
+  h3_font_size: 14
+  chapter_break_before: always
+  part_break_before: always
+
+title_page:
+  align: center
+  title:
+    font_size: 36
+    font_style: bold
+    font_color: #333333
+    top: 40%
+  subtitle:
+    font_size: 14
+    font_style: italic
+    font_color: #666666
+  authors:
+    font_size: 14
+    font_color: #666666
+  revision:
+    font_size: 12
+    font_color: #999999
+
+header:
+  height: 0.5in
+  font_size: 9
+  font_color: #999999
+  recto_content:
+    right: '{document-title}'
+  verso_content:
+    left: '{chapter-title}'
+
+footer:
+  height: 0.5in
+  font_size: 9
+  font_color: #999999
+  recto_content:
+    center: '{page-number}'
+  verso_content:
+    center: '{page-number}'
+
+running_content:
+  start_at: toc
+
+toc:
+  font_size: 11
+  line_height: 1.6
+  indent: 0.5in
+  dot_leader:
+    content: '. '
+    font_color: #999999
+
+prose:
+  margin_bottom: 6
+
+sidebar:
+  border_color: #CCCCCC
+  border_width: 0.5
+  background_color: #F5F5F5
+  padding: [8, 12, 8, 12]
+
+quote:
+  font_size: 10.5
+  font_style: italic
+  border_color: #CCCCCC
+  border_width: 0
+  padding: [0, 0, 0, 24]
+
+admonition:
+  padding: [8, 12, 8, 12]
+
+role:
+  verse:
+    font_size: 10.5
+    font_style: normal

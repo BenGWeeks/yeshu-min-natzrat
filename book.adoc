@@ -1,0 +1,47 @@
+= Yeshu min Natzrat
+:doctype: book
+:media: prepress
+:front-cover-image: none
+:toc:
+:toclevels: 1
+:version: v1.0
+
+include::foreword.adoc[]
+
+= Part I: The Sayings Tradition
+
+include::chapters/gospel-of-thomas.adoc[]
+
+include::chapters/sermon-on-the-mount.adoc[]
+
+= Part II: The Inner Teaching
+
+include::chapters/gospel-of-mary.adoc[]
+
+include::chapters/apocryphon-of-james.adoc[]
+
+= Part III: The Jerusalem Tradition
+
+include::chapters/james.adoc[]
+
+include::chapters/jude.adoc[]
+
+= Part IV: The Love Tradition
+
+include::chapters/1-john.adoc[]
+
+include::chapters/2-john.adoc[]
+
+include::chapters/3-john.adoc[]
+
+= Part V: Community Practice
+
+include::chapters/didache.adoc[]
+
+[appendix]
+include::appendices/hymn-of-the-pearl.adoc[]
+
+[appendix]
+include::appendices/gospel-of-philip-mary.adoc[]
+
+include::further-reading.adoc[]

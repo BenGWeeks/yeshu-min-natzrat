@@ -1,0 +1,52 @@
+name: Build Book PDF
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+
+      - name: Install asciidoctor-pdf
+        run: gem install asciidoctor-pdf
+
+      - name: Build PDF
+        run: |
+          asciidoctor-pdf \
+            -a pdf-theme=yeshu-theme.yml \
+            -a pdf-themesdir=themes \
+            book.adoc \
+            -o yeshu-min-natzrat.pdf \
+            --trace -v
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: yeshu-min-natzrat-pdf
+          path: yeshu-min-natzrat.pdf
+
+      - name: Get version
+        id: version
+        run: echo "version=$(grep ':version:' book.adoc | sed 's/:version: //')" >> $GITHUB_OUTPUT
+
+      - name: Create Release
+        if: github.ref == 'refs/heads/main'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.version.outputs.version }}
+          name: Yeshu min Natzrat ${{ steps.version.outputs.version }}
+          files: yeshu-min-natzrat.pdf
+          make_latest: true

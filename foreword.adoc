@@ -1,0 +1,332 @@
+[preface]
+== Foreword
+
+=== About This Canon
+
+This is version 1.0 of a living canon.
+
+It will change. New scholarship will sharpen some conclusions and overturn others. Texts may be discovered that nobody alive today has read. The Nag Hammadi library sat buried in an Egyptian jar for sixteen centuries before a farmer struck it with his mattock in 1945. There may be more jars.
+
+Every canon is a set of choices. The canon assembled at the councils of Nicaea and Carthage in the fourth century was not handed down from heaven. It was debated, voted on, and enforced by men with political interests — men backed by an emperor who needed a unified state religion. Books were included and excluded for reasons that had as much to do with institutional power as with spiritual truth. The Gospel of Thomas was buried. The Gospel of Mary was suppressed. The voices of Jesus's own family were drowned out by a man who never met him.
+
+We are making choices too. The difference is that we are transparent about ours. Every inclusion and exclusion in this canon is explained in this foreword, with reasoning you can examine, challenge, and disagree with. We have no emperor behind us and no council to enforce conformity. We have only the texts themselves, the best available scholarship, and a simple question: what did Yeshu of Nazareth actually teach?
+
+
+=== Who Is Yeshu in This Canon?
+
+The Yeshu who emerges from these texts is not the figure most Christians were taught about. He is simpler, more radical, and more accessible than the cosmic Christ of the creeds.
+
+**He is not the Messiah.** The term _Mashiach_ — the anointed one, rendered _Christos_ in Greek — belongs to the Hebrew political tradition. It refers to a king who would restore Israel's sovereignty, defeat its enemies, and reign from David's throne. Yeshu never claims this title in the earliest sources. In the Gospel of Thomas, the word _Christ_ does not appear. In the Synoptic tradition, when Peter declares him the Christ at Caesarea Philippi, Yeshu's response is striking: he orders them to tell no one, and when Peter presses the point — insisting that the Messiah cannot suffer — Yeshu turns on him and says, "Get behind me, Satan." The title _Christ_ was applied to Yeshu by others. He resisted it.
+
+**He is not a miracle worker.** The Gospel of Thomas contains 114 sayings attributed to Yeshu. Not one of them is a miracle narrative. There is no walking on water, no feeding of thousands, no raising of the dead. The earliest recoverable layer of the tradition — Thomas, Q, the Letter of Ya'akov — presents a wisdom teacher, not a wonder-worker. The miracle traditions accumulated later, growing more spectacular with each retelling and with increasing distance from the historical events. Mark has modest healings. Matthew and Luke amplify them. John has Yeshu raising a man four days dead. The trajectory is clear: the further from the source, the bigger the miracles.
+
+**He did not rise bodily from the dead.** This canon contains no physical resurrection narrative. The Gospel of Thomas does not mention it. The Letter of Ya'akov does not mention it. The Didache does not mention it. The Apocryphon of James refers to post-death teaching but not to a bodily return from the grave. The Gospel of Mary presents the encounter with the risen Yeshu as an interior vision — a seeing with the mind, not the eyes. The physical resurrection, with its empty tomb and its risen body eating fish, is a later development. Paul, the earliest writer to mention resurrection, speaks of a "spiritual body" — something quite different from a resuscitated corpse. The bodily resurrection became theologically necessary only when Christianity needed Yeshu to be a dying-and-rising god on the model familiar to the Greco-Roman world.
+
+**He is not divine in the way later theology claimed.** There is no "I am the way, the truth, and the life" in these texts. There is no Logos theology — no pre-existent cosmic Word becoming flesh. There is no Trinity. These are constructions of the Gospel of John, of Paul, and of the councils that followed. The Yeshu of Thomas and Ya'akov and Mary is a human teacher — extraordinary, but human.
+
+**What he was:** A Galilean craftsman. The name _Yeshu min Natzrat_ — Jesus of Nazareth — is how he would have been known in his own Aramaic tongue. He was a wisdom teacher who pointed toward an interior Kingdom, a God whose fundamental nature is unconditional love, and care for the poor as the substance of authentic faith. He was not building an institution. He was not founding a religion. He was pointing at something anyone could find.
+
+**He called himself Son of Man.** This was his preferred self-designation — _bar enasha_ in Aramaic, which can mean simply "a human being" but which also carries resonance with the visionary figure in 1 Enoch and Daniel. In the Gospel of Thomas, the Son of Man is not a unique title reserved for Yeshu alone. Anyone can become a Son of Man through interior transformation. The teaching empowers the listener rather than creating dependency on a singular supernatural figure. The point is not to worship Yeshu. The point is to become what Yeshu became.
+
+**His message was devastatingly simple.** The Kingdom of God is within you. God is love. Feed the hungry. Clothe the naked. Do not judge. Treat others as you want to be treated. You cannot serve God and money. These teachings require no theology to understand. A child can grasp them. What they require is practice — and that, it turns out, is the hard part.
+
+
+=== Why Thomas, Ya'akov, and Mary — Not Paul
+
+This canon places its trust in the people who actually knew Yeshu — not those who claimed authority through visions they had after his death.
+
+==== Toma — The Twin
+
+The disciple known as Thomas is called _Didymus_ in Greek and _Toma_ in Aramaic. Both words mean the same thing: twin. The tradition consistently presents Toma as Yeshu's spiritual twin — the disciple who most completely understood what Yeshu was pointing at.
+
+In Thomas Saying 13, Yeshu takes Toma aside after the other disciples fail to describe who he really is. Peter calls him a righteous angel. Matthew calls him a wise philosopher. Toma says, "Master, my mouth is wholly incapable of saying whom you are like." Yeshu responds: "I am not your master. Because you have drunk, you have become intoxicated from the bubbling spring that I have measured out." Toma has drunk from the same spring. He is not a follower. He is a peer.
+
+The Gospel of John's hostile caricature of Toma as "the doubter" — the one who refuses to believe unless he can stick his fingers in the wounds — was almost certainly written to suppress the Thomasine tradition's authority. John's Gospel is the latest of the four canonical Gospels, written at a time when the Thomasine communities in Syria were a rival centre of Christian authority. The author of John needed to discredit Toma, and he did it brilliantly: two thousand years later, "Doubting Thomas" remains a phrase in common usage. But the doubt is John's invention. In the older tradition, Toma is not the doubter. He is the twin.
+
+Whether the twinship was genetic — Yeshu had brothers, and _Judas Thomas_ may be one of them — or spiritual, it represents the closest possible relationship between teacher and student. When we want to know what Yeshu taught, Toma is our most intimate witness.
+
+==== Ya'akov — The Brother
+
+The figure known in English as James is _Ya'akov_ in Aramaic — Jacob. He was Yeshu's actual brother. He grew up with him, knew him personally his entire life, and led the Jerusalem community after Yeshu's death. If anyone understood what Yeshu meant, it was the man who ate breakfast with him for thirty years.
+
+The Letter of Ya'akov is the closest thing we have to what Yeshu's own family understood he taught. And what it teaches is strikingly consistent with the Sermon on the Mount and the Gospel of Thomas: care for the poor is the substance of faith. "Pure and undefiled religion before God and the Father is this: to visit the fatherless and widows in their affliction, and to keep oneself unstained by the world." That is Ya'akov's definition of religion. Not belief in the resurrection. Not acceptance of atonement theology. Caring for orphans and widows.
+
+Paul's characterisation of Ya'akov as obsessed with Jewish law — as the leader of a "circumcision faction" — may have been deliberate reframing. Ya'akov's own letter says nothing about circumcision. It says everything about feeding the hungry, controlling the tongue, and not favouring the rich over the poor. If this is legalism, it is the legalism of the Sermon on the Mount.
+
+==== Mary Magdalene — The First Witness
+
+Mary Magdalene was present at the crucifixion when the Twelve had fled. She was the first witness to the resurrection in multiple Gospel accounts. In a culture where women's testimony was legally worthless, the early tradition insisted that a woman was the first to see — which strongly suggests it was historically true, because no one inventing the story would have chosen a witness whose testimony could be dismissed.
+
+The Gospel of Mary presents her receiving teaching that the other disciples did not receive. She describes an interior vision, an ascent of the soul past the powers that bind it. Peter dismisses her authority: "Did he really speak privately with a woman and not openly to us?" Levi rebukes Peter: "If the Saviour made her worthy, who are you to reject her?"
+
+And Peter — let us remember who Peter is. Peter is the man Yeshu called Satan.
+
+==== Paul — The Outsider
+
+Paul, by contrast, never met Yeshu during his lifetime. He was Saul of Tarsus, a Roman citizen — a status that implies wealth, connections, and privilege. He was a Pharisee who persecuted the early community, participating in or approving the killing of its members. Then, on the road to Damascus, he claimed a vision. On the basis of that vision alone, he claimed authority equal to — and eventually exceeding — those who had walked with Yeshu for years.
+
+Paul wrote most of the New Testament's letters. His theology — cosmic atonement through blood sacrifice, justification by faith alone, the abolition of Jewish law, the subordination of women — became the foundation of virtually all Christianity. His Christ is a pre-existent divine being who descended from heaven, died as a substitutionary sacrifice, and rose again to defeat death. This is a sophisticated theological construction. It is also entirely Paul's. Yeshu never taught any of it.
+
+Paul met Ya'akov and the Jerusalem community. He argued with them. He wrote about them with barely concealed contempt. He boasted of opposing Peter "to his face." He built a version of the faith that was palatable to the Greco-Roman world — and in doing so, he replaced the Galilean wisdom teacher with a mystery-religion saviour figure that Yeshu himself would not have recognised.
+
+This canon excludes Paul entirely. Every letter. Every theology. Every claim.
+
+==== Peter — The Man Yeshu Called Satan
+
+Peter is a more complicated case. He was a Galilean fisherman who genuinely knew Yeshu. He was part of the inner circle. But his reliability is deeply problematic.
+
+He denied Yeshu three times when it mattered most — when Yeshu was arrested and facing death, Peter swore he had never known him. He was politically malleable: Paul records that Peter ate freely with Gentile converts until representatives from Ya'akov arrived, at which point he withdrew and separated himself, afraid of the circumcision faction (Galatians 2:12). The Gospel of Mary has Peter dismissing Mary Magdalene's authority because she is a woman.
+
+Most strikingly, in the very scene where Peter declares Yeshu the Christ — the scene that Catholic tradition treats as the founding charter of the Church — Yeshu immediately calls Peter "Satan" for thinking in the categories of worldly power and triumph (Matthew 16:23). Peter declares the Christ. Yeshu rejects the title and calls Peter Satan. Four verses separate the supposed founding of the Church from its founder being identified with the adversary. The Catholic Church is built on the man Yeshu called Satan.
+
+The question this canon asks is simple: who do you trust more — Yeshu's twin, his brother, and his closest female disciple? Or a Roman citizen who never met him, and a fisherman he called Satan?
+
+
+=== The Q Source
+
+Behind the Gospels of Matthew and Luke lies a ghost. Scholars call it Q, from the German _Quelle_ — source. It is a hypothetical document, never found as a physical text, but reconstructed with considerable confidence from material that Matthew and Luke share but that does not appear in Mark.
+
+The logic is straightforward. Matthew and Luke both used Mark as a source — this is almost universally accepted. But they also share substantial material that is not in Mark: the Beatitudes, the Lord's Prayer, the Golden Rule, the warnings about wealth, the parables of judgment. This shared material is too extensive and too closely worded to be coincidence. Either Luke copied from Matthew, or Matthew copied from Luke, or both drew on a common source. Most scholars conclude it was a common source. That source is Q.
+
+Q, as reconstructed, is predominantly a sayings collection. It contains wisdom teachings, ethical instruction, and prophetic warnings. It has no passion narrative. It has no resurrection account. It has no birth story. It presents Yeshu as a wisdom teacher and prophet, not as a dying-and-rising saviour. Its theology, such as it is, centres on the Kingdom of God as a present reality, on care for the poor, and on radical trust in divine provision.
+
+Q is probably the earliest recoverable layer of Yeshu's teaching. Most scholars date it to the 40s or 50s CE — within two decades of Yeshu's death, and earlier than any of the canonical Gospels. It predates Paul's major letters or is roughly contemporary with them. This means that the earliest written record of what Yeshu taught looks nothing like what Paul was teaching in his letters. Q has no atonement theology, no cosmic Christ, no justification by faith. It has the Sermon on the Mount.
+
+The relationship between Q and the Gospel of Thomas is one of the most important questions in early Christian studies. Thomas is also a sayings collection. It also has no passion narrative, no resurrection, no birth story. It also presents Yeshu as a wisdom teacher. And it shares numerous sayings with Q — sometimes in strikingly similar form, sometimes in what appears to be an independent version of the same underlying teaching. The simplest explanation is that Thomas and Q are independent witnesses to the same early tradition — two separate streams flowing from the same spring. If that is correct, then where Thomas and Q agree, we are as close to the historical Yeshu as we are ever likely to get.
+
+This canon includes the Sermon on the Mount (Matthew 5-7) as the most concentrated block of Q material in the New Testament. It includes Thomas as the most complete independent witness to the same tradition. Together, they form the backbone of this collection.
+
+
+=== The Historical Yeshu — Context
+
+To understand what Yeshu taught, you need to understand where he came from.
+
+==== A Galilean Under Occupation
+
+Yeshu was born in Galilee, in the north of what Rome called the province of Judaea, around 4 BCE. He was a _tekton_ — usually translated "carpenter," but the word more broadly means craftsman or builder. He was not destitute, but he was working class. Nazareth was a small village, perhaps a few hundred people, in a region known for its independence, its mixed population, and its distance from the religious establishment in Jerusalem.
+
+Galilee was occupied territory. Roman legions were a visible presence. Taxation was crushing — estimates suggest peasant farmers paid between 35 and 50 percent of their produce in combined Roman and temple taxes. Resistance movements were common: Judas the Galilean led a tax revolt in 6 CE, roughly when Yeshu was a child. The memory of that revolt, and of its brutal suppression, would have been part of the air Yeshu breathed growing up.
+
+The temple in Jerusalem was the centre of Jewish religious life, but for Galileans it was also a centre of economic extraction. The temple tax, the requirement to purchase approved sacrificial animals at inflated prices, the money-changers who profited from the exchange — all of this fell hardest on the poor. When Yeshu later overturned the money-changers' tables, he was not making an abstract theological point. He was attacking an economic system that ground down people like his neighbours.
+
+==== His Formation
+
+Yeshu was deeply formed by the Jewish scriptural tradition. His teaching is saturated with the Torah, the Prophets, and the Wisdom literature. He quotes Deuteronomy, Isaiah, Hosea, and the Psalms. He teaches in parables, a form rooted in Jewish wisdom tradition. He was literate — Luke's account of him reading from Isaiah in the Nazareth synagogue, whether historically precise or not, reflects a plausible picture of a learned craftsman in a tradition that valued study.
+
+But Yeshu's formation went beyond the mainstream. The "Son of Man" — _bar enasha_ — was his preferred self-designation, and its deepest resonance is not with Daniel alone but with the Enochic tradition. In 1 Enoch, the Son of Man is a pre-existent figure who sits on God's throne of glory and vindicates the poor and oppressed against the kings and the mighty. This is not the Davidic Messiah of mainstream expectation — a warrior king. This is something stranger and more radical: a figure of justice who overturns the entire order of power. When Yeshu called himself Son of Man, his listeners who knew the Enochic tradition would have heard a claim far more subversive than "Messiah."
+
+The tradition of Enoch also gave Yeshu a framework for understanding heavenly ascent, the corruption of the angelic powers, and the ultimate vindication of the righteous poor. The Letter of Jude — written by Yeshu's own brother — explicitly quotes 1 Enoch as authoritative. This was part of the family's intellectual world.
+
+==== John the Baptist and the Wilderness
+
+Yeshu sought out Yochanan the Baptiser — John the Baptist — a recognised teacher and prophet operating in the Judaean wilderness. This is historically certain: no early Christian would have invented a story in which their founder submitted to baptism by another teacher, implying subordination. Yeshu went to John because he recognised John's authority.
+
+Something happened at the baptism. The sources describe it as a vision — the heavens opening, the Spirit descending. Whatever the historical kernel, Yeshu emerged from the experience transformed. He then withdrew into the wilderness for forty days.
+
+The wilderness period echoes Moses on Sinai and Elijah at Horeb, but its content — the confrontation with the temptations — is revealing. The temptations are about power: turning stones to bread (using spiritual authority for material comfort), ruling all kingdoms (accepting political power), and throwing oneself from the temple (demanding God perform on command). Yeshu rejects all three. He rejects comfort, political power, and spiritual spectacle. What remains after these rejections is the teaching itself: the interior Kingdom, the God of love, care for the poor.
+
+==== His Practice
+
+Yeshu's own practice, as far as we can recover it, was simple. He withdrew regularly for solitary prayer. He paid attention to ordinary experience — birds, lilies, seeds, bread, fish — and found the Kingdom reflected there. He gathered a community around him, but it was not an institution. It was a travelling band of students, including women, which was scandalous by the standards of his culture.
+
+On fasting, Thomas Saying 14 is striking: "If you fast, you will bring sin upon yourselves." This is not a rejection of inner discipline — the wilderness period makes that clear. It is a rejection of performative religious fasting, the kind done to be seen by others. The practice Yeshu commended was interior: attention, simplicity, detachment from wealth and status.
+
+==== His Relationship to Jewish Tradition
+
+Yeshu's relationship to the tradition that formed him was one of critical inheritance. He honoured the ethical core — love God, love your neighbour, care for the widow and orphan, do justice. He drew deeply on the prophetic stream: Hosea's "I desire mercy, not sacrifice," Amos's thundering against those who trample the poor, Isaiah's vision of justice rolling down like waters.
+
+But he transcended the legal and sacrificial framework. He healed on the Sabbath. He ate with the unclean. He declared all foods clean. He said "you have heard it said... but I say to you" — not completing the old teaching but replacing it. He was not reforming Judaism. He was pointing beyond it, toward something the tradition had glimpsed in its best moments but could not sustain within its legal structure.
+
+
+=== The Two Gods Problem
+
+There is a question that haunts Christianity, and most Christians have been taught not to ask it: is the God of the Old Testament the same God that Yeshu describes?
+
+The God of the Old Testament commands the genocide of the Amalekites — every man, woman, child, and infant (1 Samuel 15). He drowns virtually all of humanity in a flood. He kills the firstborn children of Egypt. He demands animal sacrifice. He describes himself as jealous. He sends bears to maul children for mocking a prophet's baldness (2 Kings 2:24). He hardens Pharaoh's heart and then punishes Pharaoh for having a hard heart.
+
+The God Yeshu describes is unconditional love. He makes his sun rise on the evil and the good. He sends rain on the just and the unjust. He runs to embrace the prodigal son before the son has even finished his apology. He forgives without limit. He does not demand sacrifice — "I desire mercy, not sacrifice." He does not punish; he restores.
+
+These do not appear to be the same being.
+
+This was not a fringe observation in early Christianity. It was one of the most powerful currents of early Christian thought. Marcion of Sinope, in the mid-second century, argued explicitly that the God of the Old Testament — whom he called the Demiurge, the creator god — was a different being from the Father Yeshu revealed. The various Gnostic traditions agreed, though they elaborated the idea in different ways. The Hymn of the Pearl, included in this canon as an appendix, tells a creation myth in which the soul descends from the Kingdom of the Father into a world ruled by lesser powers — a world not made by the true God.
+
+The Sermon on the Mount makes the case in Yeshu's own words. "You have heard that it was said, 'An eye for an eye, and a tooth for a tooth.' But I tell you, don't resist him who is evil." The old law — the law of the Old Testament God — mandated proportional retaliation. Yeshu does not say the old law was good for its time. He does not say it was a stepping stone. He replaces it. "You have heard it said... but I say to you" is the formula of supersession, repeated six times in a single chapter. He is consciously and explicitly overriding the previous instructions.
+
+The Gospel of Thomas, Saying 52, makes it even more direct. The disciples say to Yeshu: "Twenty-four prophets spoke in Israel, and all of them spoke of you." His response: "You have left out the one who is living in your presence and have spoken only of the dead." The prophets of Israel — the heroes of the Old Testament — spoke of the dead. The living teaching is here, now, in Yeshu himself. The old dispensation is finished.
+
+This canon takes the two-gods problem seriously. The entire Old Testament is excluded — not because it is without value as history or literature, but because the God it describes is not the God Yeshu reveals. The Father of unconditional love does not command genocide. These are different visions of the divine, and this canon chooses the one Yeshu taught.
+
+
+=== Every Book — In or Out
+
+What follows is a complete accounting. Every book considered for this canon is listed, with a clear statement of inclusion or exclusion, authorship, approximate date, and reasoning.
+
+==== The Old Testament — All Excluded
+
+The entire Old Testament is excluded from this canon.
+
+This is the most radical decision in the collection, and it requires explanation. Yeshu was a Jew. He was formed by the Torah, the Prophets, and the Wisdom literature. He quoted scripture constantly. To exclude the Old Testament seems to cut him off from his own roots.
+
+But this canon is not a biography of Yeshu. It is a collection of his teaching and the teaching of those closest to him. And that teaching, at its core, points beyond the Old Testament framework.
+
+The God of the Old Testament commands genocide (1 Samuel 15:3), drowns humanity (Genesis 6-8), demands animal sacrifice (Leviticus 1-7), describes himself as jealous (Exodus 34:14), and punishes children for the sins of their parents (Exodus 20:5). Yeshu's God is unconditional love, makes no distinction between the righteous and the unrighteous in his generosity, and desires mercy rather than sacrifice.
+
+Yeshu drew on the prophetic justice tradition — Hosea, Amos, Isaiah — and those prophets glimpsed the God of love within the larger framework of the Old Testament God. But Yeshu extracted that thread and left the rest. He kept "love your neighbour" and discarded the legal code that surrounded it. He kept the prophetic cry for justice and discarded the sacrificial system.
+
+Thomas Saying 52 dismisses the prophets as concerned with "the dead." The Sermon on the Mount systematically supersedes the old law. Ya'akov defines pure religion as caring for orphans and widows — with no reference to temple, sacrifice, or law.
+
+The Old Testament is acknowledged as the historical and cultural context from which Yeshu emerged. It is not included as scripture in this canon. Readers seeking to understand Yeshu's Jewish formation should read the prophets, the Psalms, and 1 Enoch — listed in this book's Further Reading section — as essential background. But this canon presents what Yeshu taught, not the tradition he transcended.
+
+==== New Testament — Book by Book
+
+===== Included
+
+**The Sermon on the Mount (Matthew 5-7)** — _Included._
+
+The Sermon on the Mount is the most concentrated block of Q material in the New Testament. It is almost certainly the closest thing we have to Yeshu's actual spoken teaching, mediated through the Q source and arranged by the author of Matthew. The Beatitudes, the antitheses ("you have heard it said... but I say to you"), the Lord's Prayer, the command not to judge, the Golden Rule, the warnings about wealth — this is the core.
+
+Only chapters 5-7 are included. The rest of Matthew is excluded. Matthew's Gospel as a whole is structured around a prophecy-fulfilment framework — "this happened to fulfil what was spoken by the prophet" — that pulls Yeshu back into the Old Testament categories he was transcending. Matthew also contains the Great Commission ("go and make disciples of all nations, baptising them in the name of the Father and of the Son and of the Holy Spirit") which is almost certainly a late addition reflecting developed Trinitarian theology. And Matthew 16:18 — "you are Peter, and on this rock I will build my church" — is the charter of Petrine authority, the foundation stone of institutional Christianity. Four verses later, Yeshu calls Peter Satan. We include the sayings. We exclude the framework.
+
+**The Letter of Ya'akov (James)** — _Included._
+
+Written by Yeshu's brother. Date uncertain — possibly as early as the 40s CE, which would make it the earliest text in the New Testament. Ya'akov's letter is pure ethical teaching: feed the hungry, do not show partiality to the rich, control the tongue, faith without works is dead. It reads like the Sermon on the Mount rewritten as practical instruction for a community. Martin Luther called it "an epistle of straw" because it contradicted Paul's doctrine of justification by faith alone. Luther was right that it contradicts Paul. That is precisely why it is included.
+
+**The Letter of Jude** — _Included._
+
+Written by Yeshu's brother Judas (Jude in English). This short letter preserves the family tradition and, crucially, quotes 1 Enoch as authoritative scripture (Jude 14-15). This confirms that the Enochic tradition — with its Son of Man theology and its framework of heavenly ascent — was part of the intellectual world of Yeshu's own family. The letter also warns against false teachers who have "crept in unnoticed" — a description that fits Paul's entry into the movement with remarkable precision.
+
+**1 John** — _Included._
+
+"God is love, and he who remains in love remains in God, and God remains in him" (1 John 4:16). This is the single most important theological statement in the New Testament, and it comes not from Paul but from the Johannine tradition — a community centred on the "beloved disciple," independent of both Paul and Peter. 1 John has no atonement theology in the Pauline sense, no justification by faith, no cosmic drama. It has love as the nature of God and love for one another as the test of authentic faith. Its Christology is minimal. Its ethics are maximal. It belongs in this canon.
+
+**2 John** — _Included._
+
+A brief letter from "the Elder" — likely the leader of the Johannine community — reinforcing the command to love one another and warning against those who do not acknowledge Yeshu "coming in the flesh." This is usually read as anti-Gnostic, but it also functions as an affirmation that the human Yeshu — not the cosmic Christ of Pauline theology — is the centre of the tradition.
+
+**3 John** — _Included._
+
+Another brief letter from the Elder, dealing with questions of community authority. Its inclusion rounds out the Johannine collection and preserves the voice of a tradition that knew Yeshu's teaching independently of Paul.
+
+===== Excluded from the New Testament
+
+**Romans, 1 and 2 Corinthians, Galatians, Philippians, 1 Thessalonians, Philemon** — _Excluded._
+
+Paul's undisputed letters. These are the foundation documents of Pauline Christianity: justification by faith, cosmic atonement, the abolition of the law, the subordination of women ("let them be silent"), and a Christ who is a pre-existent divine being. Paul never met Yeshu. He claimed authority through a vision. His theology contradicts Yeshu's teaching at virtually every point. Ya'akov says faith without works is dead. Paul says works are nothing — faith alone saves. Yeshu says the Kingdom is within you. Paul says Christ died for your sins according to the scriptures. These are different religions. Paul's is excluded.
+
+**Ephesians, Colossians, 2 Thessalonians, 1 and 2 Timothy, Titus** — _Excluded._
+
+The disputed Pauline letters — probably not written by Paul himself, but by later followers writing in his name. They extend Pauline theology into church organisation, household codes, and the suppression of women's leadership. They are further from Yeshu than Paul's own letters, which were already far enough.
+
+**The Gospel of Mark** — _Excluded._
+
+Mark is the earliest canonical Gospel, written around 70 CE. Tradition identifies its author as John Mark, a companion of Peter, writing Peter's recollections. This means Mark is essentially Peter's Gospel — and Peter's reliability, as discussed above, is deeply compromised. Mark's Gospel is also structured as a passion narrative with an extended introduction: it moves inexorably toward the crucifixion, which it interprets as a ransom for many (Mark 10:45). This atonement framework is closer to Paul than to Yeshu's own teaching. Mark's sayings material, where it overlaps with Q, has been retained via the Sermon on the Mount. The narrative framework is excluded.
+
+**The Gospel of Luke** — _Excluded._
+
+Luke was Paul's travelling companion and physician. His Gospel is dedicated to a Roman patron ("most excellent Theophilus") and shaped by Pauline concerns. Luke's version of the Sermon on the Mount — the Sermon on the Plain — is shorter and less radical than Matthew's, and he adds material that softens Q's hard edges. The Acts of the Apostles, also by Luke, is essentially a work of Pauline propaganda, presenting Paul's mission as the triumphant spread of the true faith while sidelining Ya'akov and the Jerusalem community. Both are excluded.
+
+**The Acts of the Apostles** — _Excluded._
+
+Luke again. Acts narrates the early church in a way that consistently elevates Paul and Peter while marginalising Ya'akov, who appears only to endorse Paul's Gentile mission at the Jerusalem Council. The historical Ya'akov led the Jerusalem community for decades and was important enough that his execution in 62 CE was a political crisis. In Acts, he is a minor figure. Acts is Pauline history and is excluded.
+
+**The Gospel of John** — _Excluded._
+
+The Gospel of John is a theological masterpiece and a work of deliberate anti-Thomasine polemic. It was written last among the canonical Gospels, probably in the 90s CE, and it is the source of Christianity's highest Christology: "In the beginning was the Word, and the Word was with God, and the Word was God." "I am the way, the truth, and the life. No one comes to the Father except through me." "Before Abraham was, I am."
+
+None of this is recoverable teaching from Yeshu. It is theology about Yeshu, written two generations after his death by a community engaged in bitter rivalry with other Christian groups — including the Thomasine tradition. John's portrait of Thomas as "the doubter" is a polemical weapon aimed at communities that revered Thomas as Yeshu's twin. John's "I am the way" exclusivism is the foundation of Christianity's claim to be the only path to God — a claim that has justified centuries of violence against those who disagreed. The Gospel of John is excluded.
+
+**1 Peter** — _Excluded._
+
+Almost certainly not written by Peter. The letter's polished Greek and Pauline theology ("you were redeemed... with the precious blood of Christ, as of a faultless and pure lamb") point to a later author writing under Peter's name. It is Pauline atonement theology dressed in Petrine authority. Excluded.
+
+**2 Peter** — _Excluded._
+
+Universally regarded by scholars as pseudepigraphical — written long after Peter's death, probably in the second century. It is the latest text in the New Testament. It explicitly references Paul's letters as scripture (2 Peter 3:15-16), which confirms its Pauline orientation. Excluded.
+
+**Hebrews** — _Excluded._
+
+Author unknown. Hebrews presents Yeshu as a high priest who offers himself as the ultimate sacrifice, superseding the Levitical priesthood. This is sophisticated atonement theology — the argument that Yeshu's death was a blood sacrifice that replaced the temple sacrifices. But Yeshu said "I desire mercy, not sacrifice." The entire sacrificial framework — whether Jewish or Christian — is what he was transcending. Hebrews pulls him back into it. Excluded.
+
+**Revelation** — _Excluded._
+
+The Apocalypse of John — probably not the same John as the Gospel or the letters. Revelation presents a cosmic war between good and evil, culminating in the violent destruction of the wicked and a new heaven and earth. Its Christ is a warrior on a white horse whose robe is dipped in blood. Its God pours out bowls of wrath on humanity. This is the theology of divine violence, and it contradicts Yeshu's teaching at the most fundamental level. Yeshu said love your enemies. Revelation's Christ slaughters his. Excluded.
+
+==== Non-Canonical Texts — Included
+
+**The Gospel of Thomas** — _Included._
+
+A collection of 114 sayings attributed to Yeshu, found in a Coptic translation at Nag Hammadi in 1945. No narrative, no miracles, no passion, no resurrection. Just sayings — many of them paralleling Q material, some of them unique and startling. "If you bring forth what is within you, what you bring forth will save you. If you do not bring forth what is within you, what you do not bring forth will destroy you" (Saying 70). Thomas may preserve an independent tradition as early as Q itself — some scholars date its core sayings layer to the 50s CE. It is the centrepiece of this canon.
+
+**The Gospel of Mary** — _Included._
+
+A fragmentary text in which Mary Magdalene recounts teaching she received from Yeshu after the resurrection — teaching about the ascent of the soul past the powers that bind it. Peter challenges her authority. Levi defends her. The text presents the encounter with the risen Yeshu as interior vision, not physical encounter, and it places a woman at the centre of the tradition's most intimate teaching. Probably written in the second century, but drawing on older traditions about Mary's authority.
+
+**The Apocryphon of Ya'akov (Apocryphon of James)** — _Included._
+
+A text attributed to Ya'akov, presenting secret teaching Yeshu gave to Ya'akov and Peter after the resurrection. Its emphasis on interior knowledge, the sufficiency of Yeshu's teaching, and the transcendence of the world aligns with the core themes of this canon. It preserves the voice of Ya'akov's community and its understanding of what Yeshu taught.
+
+**The Didache** — _Included._
+
+The "Teaching of the Twelve Apostles" — a first-century community manual that may be as early as the 50s CE, making it contemporary with Paul's letters. It opens with the "Two Ways" — the Way of Life and the Way of Death — and its ethical teaching closely parallels the Sermon on the Mount. It includes instructions for baptism, fasting, prayer (including the Lord's Prayer), and the Eucharist. It makes no reference to Paul, no reference to atonement, and no reference to resurrection theology. It is the earliest surviving picture of a Christian community's actual practice, and that practice looks like the Sermon on the Mount put into action.
+
+==== Appendices
+
+**The Hymn of the Pearl** — _Included as appendix._
+
+Found in the Acts of Thomas, the Hymn of the Pearl is a creation myth told as parable. A prince is sent from his father's kingdom into Egypt, where he forgets who he is. A letter arrives to remind him. He remembers his true nature, reclaims the pearl, and returns home. This is the Gnostic creation story in its most beautiful form — the soul's descent into matter, its forgetting, its awakening, and its return. It serves as this canon's creation narrative, replacing the Genesis account of a God who creates, judges, and punishes with a story of a Father who sends, loves, and calls home.
+
+The translation used is G.R.S. Mead's pre-1923 rendering, now in the public domain.
+
+**The Gospel of Philip — Mary Magdalene Extracts** — _Included as appendix._
+
+The Gospel of Philip contains several passages about Mary Magdalene that support her central role in the tradition. The most famous: "the companion of the Saviour is Mary Magdalene. He loved her more than all the disciples, and used to kiss her often." Peter and the others are jealous. These extracts are included as supplementary evidence for Mary's authority and her intimate relationship with Yeshu's teaching.
+
+==== A Note on Translations
+
+The biblical texts in this canon use the World English Bible (WEB), a modern English translation in the public domain. It is clear, readable, and freely available.
+
+The non-canonical texts — the Gospel of Thomas, the Gospel of Mary, the Apocryphon of James, and the Gospel of Philip extracts — use Mark M. Mattison's public domain translations, available at gospels.net. Mattison's work is careful, accessible, and freely licensed.
+
+The Hymn of the Pearl uses G.R.S. Mead's translation, originally published before 1923 and now in the public domain.
+
+The Didache uses the Roberts-Donaldson translation of 1885, also in the public domain.
+
+All translations in this book are public domain. No permissions were required and none are owed.
+
+
+=== What Emerges
+
+Strip away Paul. Strip away Peter. Strip away the councils, the creeds, the Nicene formula, the Chalcedonian definition, the entire apparatus of institutional Christianity. Strip away the miracle stories, the virgin birth, the bodily resurrection, the ascension into heaven, the promise of a Second Coming. Strip away Revelation's warrior Christ and John's cosmic Logos and Hebrews' high priest and Romans' courtroom of justification.
+
+What remains?
+
+A wisdom teacher. A man who grew up in an occupied village, learned a trade, studied the scriptures, sought out a teacher in the wilderness, underwent a transformative experience, and then spent a few years walking through Galilee and Judaea, talking to anyone who would listen.
+
+His teaching was about an interior Kingdom — not a future event to be awaited but a present reality to be discovered. "The Kingdom of the Father is spread out upon the earth, and people do not see it" (Thomas Saying 113). It is not coming with signs to be observed. It is here, now, within you and around you, waiting to be recognised.
+
+His God was love — not a philosophical abstraction about love, but a lived reality of unconditional generosity. The Father makes his sun rise on the evil and the good. He does not keep accounts. He does not demand sacrifice. He does not punish. He gives, endlessly, to everyone, without condition.
+
+His ethic was care for the poor — not as charity, not as a nice addition to the spiritual life, but as the substance of authentic faith itself. "Pure and undefiled religion," writes Ya'akov, "is to visit the fatherless and widows in their affliction." Faith without this is dead. Belief without this is noise. Theology without this is entertainment for the comfortable.
+
+His practice was direct experience — no priest required, no temple necessary, no institution standing between the individual and the divine. "The Kingdom is within you." Not within the Church. Not within the sacraments. Not within the ordained ministry. Within you.
+
+And women were central to his movement — not peripheral, not subordinate, not silent. Mary Magdalene was the first witness and the most intimate student. The Gospel of Thomas makes no distinction between male and female disciples. It was Paul who wrote "let the women be silent in the churches." Yeshu never said anything of the kind.
+
+What emerges from these texts is not a religion. It is a practice. It is not a set of beliefs to be affirmed but a way of seeing to be cultivated. The Kingdom is within you — but you have to look.
+
+
+=== How to Read This Book
+
+These texts reward slow reading. They are not long — the Gospel of Thomas can be read in an hour, the Letter of Ya'akov in twenty minutes. But their power is not in information. It is in attention.
+
+The Gospel of Thomas especially requires a different kind of reading than most people are used to. Its sayings are often cryptic, sometimes contradictory, and deliberately resistant to quick interpretation. "Jesus said, 'I shall choose you, one out of a thousand, and two out of ten thousand, and they will stand as a single one'" (Saying 23). What does this mean? The text does not explain. It invites you to sit with it, to let it work on you, to return to it over days and weeks and find that it has changed — or rather, that you have.
+
+Read the Sermon on the Mount as if you have never heard it before. Most people have heard "blessed are the meek" so many times that the words have lost all force. Read it fresh. "Blessed are those who hunger and thirst for righteousness, for they will be filled." This is not a greeting-card sentiment. It is a revolutionary claim about the structure of reality.
+
+Read Ya'akov's letter and notice how much of it could have been spoken by Yeshu himself. "Come now, you rich, weep and howl for your miseries that are coming on you" (James 5:1). This is not gentle. This is not reassuring. This is the voice of a man whose brother was executed by an alliance of wealth and power, speaking to a community that was being ground down by the same forces.
+
+Read the Gospel of Mary and notice what it claims: that the deepest teaching was given to a woman, that the male disciples did not receive it, and that Peter — the rock upon which the Church was built — tried to suppress it.
+
+Read all of it with this in mind: the Kingdom of the Father is spread out upon the earth, and people do not see it. These texts are attempts to help you see it. They cannot do the seeing for you. But they can point.
+
+That is all Yeshu ever did. He pointed.
