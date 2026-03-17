@@ -175,10 +175,19 @@ def strip_usfm_inline(text: str) -> str:
     # Remove \w word|strong="G1234"\w* — keep just the word
     text = re.sub(r"\\w\s+([^|]*?)\|[^\\]*?\\w\*", r"\1", text)
     # Remove \wj ... \wj* (words of Jesus markers)
-    text = re.sub(r"\\wj\s*", "", text)
     text = re.sub(r"\\wj\*", "", text)
-    # Remove any remaining inline/character markers
+    text = re.sub(r"\\wj\s*", "", text)
+    # Remove any remaining inline/character markers and their closing *
     text = re.sub(r"\\\+?[a-z]+\d?\*?", "", text)
+    # Remove stray lone * left from USFM closing markers (e.g., \wj*)
+    # These appear as trailing " *" or standalone "*" after stripping
+    text = re.sub(r"\s+\*\s*$", "", text)
+    text = re.sub(r"\s+\*\s+", " ", text)
+    # Convert editorial conventions from source translations:
+    # /word\ = scribal correction → (word)
+    # <word> = reconstructed text → (word)
+    text = re.sub(r"/([^\\]+)\\", r"(\1)", text)
+    text = re.sub(r"<([^>]+)>", r"(\1)", text)
     # Clean up spacing
     text = re.sub(r"  +", " ", text)
     text = re.sub(r"\s+([.,;:!?])", r"\1", text)
