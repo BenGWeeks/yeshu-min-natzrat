@@ -223,105 +223,139 @@ The Old Testament is acknowledged as the historical and cultural context from wh
 
 ===== Included
 
-**The Sermon on the Mount (Matthew 5-7)** — _Included._
+**The Sermon on the Mount (Matthew 5-7)** — _Included._ Q source: 40s-50s CE; Matthew written ~80-90 CE.
 
 The Sermon on the Mount is the most concentrated block of Q material in the New Testament. It is almost certainly the closest thing we have to Yeshu's actual spoken teaching, mediated through the Q source and arranged by the author of Matthew. The Beatitudes, the antitheses ("you have heard it said... but I say to you"), the Lord's Prayer, the command not to judge, the Golden Rule, the warnings about wealth — this is the core.
 
 Only chapters 5-7 are included. The rest of Matthew is excluded. Matthew's Gospel as a whole is structured around a prophecy-fulfilment framework — "this happened to fulfil what was spoken by the prophet" — that pulls Yeshu back into the Old Testament categories he was transcending. Matthew also contains the Great Commission ("go and make disciples of all nations, baptising them in the name of the Father and of the Son and of the Holy Spirit") which is almost certainly a late addition reflecting developed Trinitarian theology. And Matthew 16:18 — "you are Peter, and on this rock I will build my church" — is the charter of Petrine authority, the foundation stone of institutional Christianity. Four verses later, Yeshu calls Peter Satan. We include the sayings. We exclude the framework.
 
-**The Letter of Ya'akov (James)** — _Included._
+**The Letter of Ya'akov (James)** — _Included._ ~40-62 CE.
 
-Written by Yeshu's brother. Date uncertain — possibly as early as the 40s CE, which would make it the earliest text in the New Testament. Ya'akov's letter is pure ethical teaching: feed the hungry, do not show partiality to the rich, control the tongue, faith without works is dead. It reads like the Sermon on the Mount rewritten as practical instruction for a community. Martin Luther called it "an epistle of straw" because it contradicted Paul's doctrine of justification by faith alone. Luther was right that it contradicts Paul. That is precisely why it is included.
+Written by Yeshu's brother. Possibly as early as the 40s CE, which would make it the earliest text in the New Testament. Ya'akov's letter is pure ethical teaching: feed the hungry, do not show partiality to the rich, control the tongue, faith without works is dead. It reads like the Sermon on the Mount rewritten as practical instruction for a community. Martin Luther called it "an epistle of straw" because it contradicted Paul's doctrine of justification by faith alone. Luther was right that it contradicts Paul. That is precisely why it is included.
 
-**The Letter of Jude** — _Included._
+**The Letter of Jude** — _Included._ ~50-90 CE.
 
 Written by Yeshu's brother Judas (Jude in English). This short letter preserves the family tradition and, crucially, quotes 1 Enoch as authoritative scripture (Jude 14-15). This confirms that the Enochic tradition — with its Son of Man theology and its framework of heavenly ascent — was part of the intellectual world of Yeshu's own family. The letter also warns against false teachers who have "crept in unnoticed" — a description that fits Paul's entry into the movement with remarkable precision.
 
-**1 John** — _Included._
+**1 John** — _Included._ ~90-110 CE.
 
 "God is love, and he who remains in love remains in God, and God remains in him" (1 John 4:16). This is the single most important theological statement in the New Testament, and it comes not from Paul but from the Johannine tradition — a community centred on the "beloved disciple," independent of both Paul and Peter. 1 John has no atonement theology in the Pauline sense, no justification by faith, no cosmic drama. It has love as the nature of God and love for one another as the test of authentic faith. Its Christology is minimal. Its ethics are maximal. It belongs in this canon.
 
-**2 John** — _Included._
+**2 John** — _Included._ ~90-110 CE.
 
 A brief letter from "the Elder" — likely the leader of the Johannine community — reinforcing the command to love one another and warning against those who do not acknowledge Yeshu "coming in the flesh." This is usually read as anti-Gnostic, but it also functions as an affirmation that the human Yeshu — not the cosmic Christ of Pauline theology — is the centre of the tradition.
 
-**3 John** — _Included._
+**3 John** — _Included._ ~90-110 CE.
 
 Another brief letter from the Elder, dealing with questions of community authority. Its inclusion rounds out the Johannine collection and preserves the voice of a tradition that knew Yeshu's teaching independently of Paul.
 
 ===== Excluded from the New Testament
 
-**Romans, 1 and 2 Corinthians, Galatians, Philippians, 1 Thessalonians, Philemon** — _Excluded._
+**Romans, 1 and 2 Corinthians, Galatians, Philippians, 1 Thessalonians, Philemon** — _Excluded._ ~50-58 CE.
 
 Paul's undisputed letters. These are the foundation documents of Pauline Christianity: justification by faith, cosmic atonement, the abolition of the law, the subordination of women ("let them be silent"), and a Christ who is a pre-existent divine being. Paul never met Yeshu. He claimed authority through a vision. His theology contradicts Yeshu's teaching at virtually every point. Ya'akov says faith without works is dead. Paul says works are nothing — faith alone saves. Yeshu says the Kingdom is within you. Paul says Christ died for your sins according to the scriptures. These are different religions. Paul's is excluded.
 
-**Ephesians, Colossians, 2 Thessalonians, 1 and 2 Timothy, Titus** — _Excluded._
+**Ephesians, Colossians, 2 Thessalonians, 1 and 2 Timothy, Titus** — _Excluded._ ~70-120 CE.
 
 The disputed Pauline letters — probably not written by Paul himself, but by later followers writing in his name. They extend Pauline theology into church organisation, household codes, and the suppression of women's leadership. They are further from Yeshu than Paul's own letters, which were already far enough.
 
-**The Gospel of Mark** — _Excluded._
+**The Gospel of Mark** — _Excluded._ ~65-70 CE.
 
-Mark is the earliest canonical Gospel, written around 70 CE. Tradition identifies its author as John Mark, a companion of Peter, writing Peter's recollections. This means Mark is essentially Peter's Gospel — and Peter's reliability, as discussed above, is deeply compromised. Mark's Gospel is also structured as a passion narrative with an extended introduction: it moves inexorably toward the crucifixion, which it interprets as a ransom for many (Mark 10:45). This atonement framework is closer to Paul than to Yeshu's own teaching. Mark's sayings material, where it overlaps with Q, has been retained via the Sermon on the Mount. The narrative framework is excluded.
+Mark is the earliest canonical Gospel. Tradition identifies its author as John Mark, a companion of Peter, writing Peter's recollections. This means Mark is essentially Peter's Gospel — and Peter's reliability, as discussed above, is deeply compromised. Mark's Gospel is also structured as a passion narrative with an extended introduction: it moves inexorably toward the crucifixion, which it interprets as a ransom for many (Mark 10:45). This atonement framework is closer to Paul than to Yeshu's own teaching. Mark's sayings material, where it overlaps with Q, has been retained via the Sermon on the Mount. The narrative framework is excluded.
 
-**The Gospel of Luke** — _Excluded._
+**The Gospel of Luke** — _Excluded._ ~80-90 CE.
 
 Luke was Paul's travelling companion and physician. His Gospel is dedicated to a Roman patron ("most excellent Theophilus") and shaped by Pauline concerns. Luke's version of the Sermon on the Mount — the Sermon on the Plain — is shorter and less radical than Matthew's, and he adds material that softens Q's hard edges. The Acts of the Apostles, also by Luke, is essentially a work of Pauline propaganda, presenting Paul's mission as the triumphant spread of the true faith while sidelining Ya'akov and the Jerusalem community. Both are excluded.
 
-**The Acts of the Apostles** — _Excluded._
+**The Acts of the Apostles** — _Excluded._ ~80-90 CE.
 
 Luke again. Acts narrates the early church in a way that consistently elevates Paul and Peter while marginalising Ya'akov, who appears only to endorse Paul's Gentile mission at the Jerusalem Council. The historical Ya'akov led the Jerusalem community for decades and was important enough that his execution in 62 CE was a political crisis. In Acts, he is a minor figure. Acts is Pauline history and is excluded.
 
-**The Gospel of John** — _Excluded._
+**The Gospel of John** — _Excluded._ ~90-100 CE.
 
-The Gospel of John is a theological masterpiece and a work of deliberate anti-Thomasine polemic. It was written last among the canonical Gospels, probably in the 90s CE, and it is the source of Christianity's highest Christology: "In the beginning was the Word, and the Word was with God, and the Word was God." "I am the way, the truth, and the life. No one comes to the Father except through me." "Before Abraham was, I am."
+The Gospel of John is a theological masterpiece and a work of deliberate anti-Thomasine polemic. Written last among the canonical Gospels, and it is the source of Christianity's highest Christology: "In the beginning was the Word, and the Word was with God, and the Word was God." "I am the way, the truth, and the life. No one comes to the Father except through me." "Before Abraham was, I am."
 
 None of this is recoverable teaching from Yeshu. It is theology about Yeshu, written two generations after his death by a community engaged in bitter rivalry with other Christian groups — including the Thomasine tradition. John's portrait of Thomas as "the doubter" is a polemical weapon aimed at communities that revered Thomas as Yeshu's twin. John's "I am the way" exclusivism is the foundation of Christianity's claim to be the only path to God — a claim that has justified centuries of violence against those who disagreed. The Gospel of John is excluded.
 
-**1 Peter** — _Excluded._
+**1 Peter** — _Excluded._ ~80-90 CE.
 
 Almost certainly not written by Peter. The letter's polished Greek and Pauline theology ("you were redeemed... with the precious blood of Christ, as of a faultless and pure lamb") point to a later author writing under Peter's name. It is Pauline atonement theology dressed in Petrine authority. Excluded.
 
-**2 Peter** — _Excluded._
+**2 Peter** — _Excluded._ ~100-150 CE.
 
 Universally regarded by scholars as pseudepigraphical — written long after Peter's death, probably in the second century. It is the latest text in the New Testament. It explicitly references Paul's letters as scripture (2 Peter 3:15-16), which confirms its Pauline orientation. Excluded.
 
-**Hebrews** — _Excluded._
+**Hebrews** — _Excluded._ ~60-90 CE.
 
 Author unknown. Hebrews presents Yeshu as a high priest who offers himself as the ultimate sacrifice, superseding the Levitical priesthood. This is sophisticated atonement theology — the argument that Yeshu's death was a blood sacrifice that replaced the temple sacrifices. But Yeshu said "I desire mercy, not sacrifice." The entire sacrificial framework — whether Jewish or Christian — is what he was transcending. Hebrews pulls him back into it. Excluded.
 
-**Revelation** — _Excluded._
+**Revelation** — _Excluded._ ~90-96 CE.
 
 The Apocalypse of John — probably not the same John as the Gospel or the letters. Revelation presents a cosmic war between good and evil, culminating in the violent destruction of the wicked and a new heaven and earth. Its Christ is a warrior on a white horse whose robe is dipped in blood. Its God pours out bowls of wrath on humanity. This is the theology of divine violence, and it contradicts Yeshu's teaching at the most fundamental level. Yeshu said love your enemies. Revelation's Christ slaughters his. Excluded.
 
 ==== Non-Canonical Texts — Included
 
-**The Gospel of Thomas** — _Included._
+**The Gospel of Thomas** — _Included._ Core sayings layer: ~50-70 CE; compiled ~60-140 CE.
 
-A collection of 114 sayings attributed to Yeshu, found in a Coptic translation at Nag Hammadi in 1945. No narrative, no miracles, no passion, no resurrection. Just sayings — many of them paralleling Q material, some of them unique and startling. "If you bring forth what is within you, what you bring forth will save you. If you do not bring forth what is within you, what you do not bring forth will destroy you" (Saying 70). Thomas may preserve an independent tradition as early as Q itself — some scholars date its core sayings layer to the 50s CE. It is the centrepiece of this canon.
+A collection of 114 sayings attributed to Yeshu, found in a Coptic translation at Nag Hammadi in 1945. No narrative, no miracles, no passion, no resurrection. Just sayings — many of them paralleling Q material, some of them unique and startling. "If you bring forth what is within you, what you bring forth will save you. If you do not bring forth what is within you, what you do not bring forth will destroy you" (Saying 70). Thomas may preserve an independent tradition as early as Q itself. It is the centrepiece of this canon.
 
-**The Gospel of Mary** — _Included._
+**The Gospel of Mary** — _Included._ ~120-150 CE.
 
 A fragmentary text in which Mary Magdalene recounts teaching she received from Yeshu after the resurrection — teaching about the ascent of the soul past the powers that bind it. Peter challenges her authority. Levi defends her. The text presents the encounter with the risen Yeshu as interior vision, not physical encounter, and it places a woman at the centre of the tradition's most intimate teaching. Probably written in the second century, but drawing on older traditions about Mary's authority.
 
-**The Apocryphon of Ya'akov (Apocryphon of James)** — _Included._
+**The Apocryphon of Ya'akov (Apocryphon of James)** — _Included._ ~125-150 CE.
 
 A text attributed to Ya'akov, presenting secret teaching Yeshu gave to Ya'akov and Peter after the resurrection. Its emphasis on interior knowledge, the sufficiency of Yeshu's teaching, and the transcendence of the world aligns with the core themes of this canon. It preserves the voice of Ya'akov's community and its understanding of what Yeshu taught.
 
-**The Didache** — _Included._
+**The Didache** — _Included._ ~50-120 CE.
 
-The "Teaching of the Twelve Apostles" — a first-century community manual that may be as early as the 50s CE, making it contemporary with Paul's letters. It opens with the "Two Ways" — the Way of Life and the Way of Death — and its ethical teaching closely parallels the Sermon on the Mount. It includes instructions for baptism, fasting, prayer (including the Lord's Prayer), and the Eucharist. It makes no reference to Paul, no reference to atonement, and no reference to resurrection theology. It is the earliest surviving picture of a Christian community's actual practice, and that practice looks like the Sermon on the Mount put into action.
+The "Teaching of the Twelve Apostles" — a community manual that may be as early as the 50s CE, making it contemporary with Paul's letters. It opens with the "Two Ways" — the Way of Life and the Way of Death — and its ethical teaching closely parallels the Sermon on the Mount. It includes instructions for baptism, fasting, prayer (including the Lord's Prayer), and the Eucharist. It makes no reference to Paul, no reference to atonement, and no reference to resurrection theology. It is the earliest surviving picture of a Christian community's actual practice, and that practice looks like the Sermon on the Mount put into action.
 
 ==== Appendices
 
-**The Hymn of the Pearl** — _Included as appendix._
+**The Hymn of the Pearl** — _Included as appendix._ ~2nd-3rd century CE.
 
 Found in the Acts of Thomas, the Hymn of the Pearl is a creation myth told as parable. A prince is sent from his father's kingdom into Egypt, where he forgets who he is. A letter arrives to remind him. He remembers his true nature, reclaims the pearl, and returns home. This is the Gnostic creation story in its most beautiful form — the soul's descent into matter, its forgetting, its awakening, and its return. It serves as this canon's creation narrative, replacing the Genesis account of a God who creates, judges, and punishes with a story of a Father who sends, loves, and calls home.
 
 The translation used is G.R.S. Mead's pre-1923 rendering, now in the public domain.
 
-**The Gospel of Philip — Mary Magdalene Extracts** — _Included as appendix._
+**The Gospel of Philip — Mary Magdalene Extracts** — _Included as appendix._ ~late 2nd-3rd century CE.
 
 The Gospel of Philip contains several passages about Mary Magdalene that support her central role in the tradition. The most famous: "the companion of the Saviour is Mary Magdalene. He loved her more than all the disciples, and used to kiss her often." Peter and the others are jealous. These extracts are included as supplementary evidence for Mary's authority and her intimate relationship with Yeshu's teaching.
+
+==== Non-Canonical Texts — Excluded
+
+**The Apocryphon of John (Secret Book of John)** — _Excluded._ Written mid-2nd century CE.
+
+The most important Sethian Gnostic text, found in multiple copies at Nag Hammadi. It provides the fullest surviving account of Gnostic cosmology: how the unknowable Father emanated the divine realms, how Sophia's error produced the Demiurge (Yaldabaoth), and how the Demiurge created the material world in ignorance, believing himself to be the only God. It frames itself as a post-resurrection revelation to the apostle John. Excluded because it is a cosmological treatise, not a teaching of Yeshu. Its value is explanatory — it provides the underlying map for what the Gospel of Thomas means by "the All" and what the Gospel of Mary means by the soul's ascent past the powers.
+
+**The Gospel of Truth** — _Excluded._ Written 140-180 CE.
+
+A Valentinian meditation on salvation, possibly written by Valentinus himself. It reads like a prose poem and is one of the most beautiful texts discovered at Nag Hammadi. Excluded because it draws heavily on Pauline language — particularly the imagery of being "called by name" and the metaphor of anointing — and its theological framework postdates and reinterprets the earliest tradition. It also tends toward a matter-as-evil dualism that contradicts Ya'akov's embodied ethics.
+
+**The Gospel of Judas** — _Excluded._ Written mid-2nd century CE.
+
+Discovered in the 1970s in Egypt, published in 2006. In this text, Yeshu laughs at his disciples for praying to their God — implying they are worshipping the wrong deity entirely. He takes Judas aside for secret teaching about the true divine realm above the creator of the material world. Excluded because of its late date, fragmentary state, and uncertainties in translation. But the scene of Yeshu laughing at temple worship resonates with Thomas and the inner teaching of Mary.
+
+**Thunder, Perfect Mind** — _Excluded._ Written 2nd-3rd century CE.
+
+A poem from Nag Hammadi spoken by a divine feminine voice in paradox: "I am the first and the last. I am the honoured one and the scorned one." Excluded because it contains no connection to Yeshu or his teaching. Noted here because it represents the divine feminine voice that the orthodox tradition systematically suppressed.
+
+**The Book of Thomas the Contender** — _Excluded._ Written 2nd-3rd century CE.
+
+A dialogue between Yeshu and his twin Thomas, belonging to the Thomasine tradition. Excluded because its harsh body-hatred and extreme asceticism contradict Ya'akov's embodied ethics and the overall tenor of this canon. Where the Gospel of Thomas says the Kingdom is spread upon the earth, the Book of Thomas the Contender says the earth is a prison to be escaped.
+
+**The Dialogue of the Savior** — _Excluded._ ~150-200 CE, possibly drawing on a 1st-century sayings source.
+
+A dialogue between Yeshu and three disciples — Mary Magdalene, Matthew, and Judas — on light and darkness, the soul, and practical wisdom. It belongs to the same genre as Thomas and Mary, and scholars believe it may contain a very early sayings stratum. Mary Magdalene plays a prominent role. Excluded because the teaching is inseparable from its Gnostic cosmological frame — unlike Thomas, you cannot extract the sayings cleanly from the theological apparatus.
+
+**The First Apocalypse of Ya'akov** — _Excluded._ ~150-200 CE.
+
+The only Nag Hammadi text that builds directly on the Ya'akov (James) tradition. It presents a dialogue between Yeshu and Ya'akov before and after the crucifixion, in which Yeshu teaches Ya'akov about the soul's passage through hostile powers. Given Ya'akov's centrality to this canon, this text was carefully considered. Excluded because it is entirely framed within Gnostic archon cosmology and contains no extractable practical or wisdom teaching of the kind Ya'akov's own letter preserves.
+
+**The Egerton Gospel** — _Excluded._ ~150 CE manuscript, possibly 1st-century source material.
+
+Four fragmentary episodes preserved on papyrus — Yeshu debating legal authorities, a healing, a version of the tribute-to-Caesar exchange. Possibly independent of and as early as the Synoptic Gospels, representing a separate stream of the tradition outside both canonical and Gnostic channels. Excluded because only fragments survive and no unified teaching can be recovered. Its existence is noted here as evidence that independent early traditions about Yeshu circulated more widely than the surviving canon suggests.
 
 ==== A Note on Translations
 
