@@ -96,9 +96,24 @@ def fetch_and_convert():
         if not line:
             continue
 
-        # Poem line
-        line_counter += 1
-        current_lines.append({"number": line_counter, "text": line})
+        # Join orphaned short fragments with the previous line.
+        # The gnosis.org HTML breaks lines at arbitrary points, creating
+        # fragments like "Large" / "was it, yet was it so light" that
+        # should be a single line: "Large was it, yet was it so light"
+        if (current_lines
+                and len(line.split()) <= 3
+                and line[0].islower()):
+            # This is a continuation of the previous line
+            current_lines[-1]["text"] += " " + line
+        elif (current_lines
+                and len(current_lines[-1]["text"].split()) <= 2
+                and not current_lines[-1]["text"].startswith('"')):
+            # Previous line was too short — merge this into it
+            current_lines[-1]["text"] += " " + line
+        else:
+            # New poem line
+            line_counter += 1
+            current_lines.append({"number": line_counter, "text": line})
 
     # Save last stanza
     if current_stanza is not None and current_lines:

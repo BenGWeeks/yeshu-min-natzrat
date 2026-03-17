@@ -86,10 +86,11 @@ def fetch_and_convert():
             in_text = True
             continue
 
-        # Footer detection
+        # Footer detection — stop before translation notes and footer
         if any(stop in line.lower() for stop in [
             "copyright", "privacy policy", "cookie",
             "the gospel according to", "colophon",
+            "notes on translation",
         ]):
             break
 
@@ -106,11 +107,17 @@ def fetch_and_convert():
                 continue
             current_text_lines.append(line)
 
-    # Save last saying
+    # Save last saying — truncate at colophon/notes if present
     if current_num > 0 and current_text_lines:
+        saying_text = " ".join(current_text_lines)
+        for cutoff in ["The Gospel According to Thomas", "Notes on Translation"]:
+            idx = saying_text.find(cutoff)
+            if idx > 0:
+                saying_text = saying_text[:idx].strip()
+                break
         verses.append({
             "number": current_num,
-            "text": " ".join(current_text_lines),
+            "text": saying_text,
         })
 
     # Remove prologue verse 0 if present (handle separately)

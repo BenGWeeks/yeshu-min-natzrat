@@ -223,9 +223,9 @@ def usfm_to_adoc(
         lines.append(f"_{subtitle}_")
     lines.append("")
     lines.append("****")
-    lines.append(f"_{intro}_")
+    lines.append(intro)
     lines.append("")
-    lines.append(f"_{attribution}_")
+    lines.append(attribution)
     lines.append("****")
     lines.append("")
 
@@ -238,14 +238,10 @@ def usfm_to_adoc(
             lines.append(f"=== {ch['heading']}")
             lines.append("")
         elif multi_chapter:
-            lines.append(f"=== Chapter {ch['number']}")
+            lines.append(f"=== {ch['number']}")
             lines.append("")
 
         is_poetry = ch.get("poetry", False) or poetry_format
-
-        if is_poetry:
-            lines.append("[verse]")
-            lines.append("____")
 
         for v in ch["verses"]:
             text = strip_usfm_inline(v["text"])
@@ -253,12 +249,9 @@ def usfm_to_adoc(
                 lines.append(f"*Saying {v['number']}.* {text}")
                 lines.append("")
             elif is_poetry:
-                lines.append(text)
+                lines.append(f"{text} +")
             else:
                 lines.append(f"^{v['number']}^ {text}")
-
-        if is_poetry:
-            lines.append("____")
 
         lines.append("")
 

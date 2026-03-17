@@ -92,7 +92,7 @@ def fetch_and_convert():
     write_usfm(
         filepath=usfm_path,
         book_id="GPH",
-        title="Gospel of Philip: Mary Magdalene Passages",
+        title="Gospel of Philip (Mary Passages)",
         short_title="Philip (Mary)",
         abbreviation="GPh",
         chapters=chapters,

@@ -1,12 +1,12 @@
 == The First Letter of John
 
 ****
-_1 John contains the statement “God is love” — perhaps the most concise summary of what Jesus actually taught. Written by “the Elder” (not the apostle John), it is independent of Paul’s theology. Its test of authentic faith is simple: do you love? Then you know God. Do you not love? Then you do not know God, no matter what you believe._
+1 John contains the statement “God is love” — perhaps the most concise summary of what Jesus actually taught. Written by “the Elder” (not the apostle John), it is independent of Paul’s theology. Its test of authentic faith is simple: do you love? Then you know God. Do you not love? Then you do not know God, no matter what you believe.
 
-_World English Bible (WEB) — public domain._
+World English Bible (WEB) — public domain.
 ****
 
-=== Chapter 1
+=== 1
 
 ^1^ That which was from the beginning, that which we have heard, that which we have seen with our eyes, that which we saw, and our hands touched, concerning the Word of life
 ^2^ (and the life was revealed, and we have seen, and testify, and declare to you the life, the eternal life, which was with the Father, and was revealed to us);
@@ -19,7 +19,7 @@ _World English Bible (WEB) — public domain._
 ^9^ If we confess our sins, he is faithful and righteous to forgive us the sins and to cleanse us from all unrighteousness.
 ^10^ If we say that we haven’t sinned, we make him a liar, and his word is not in us.
 
-=== Chapter 2
+=== 2
 
 ^1^ My little children, I write these things to you so that you may not sin. If anyone sins, we have a Counselorfootnote:[Greek παρακλητον: Counselor, Helper, Intercessor, Advocate, and Comforter.] with the Father, Jesus Christ, the righteous.
 ^2^ And he is the atoning sacrificefootnote:[“atoning sacrifice” is from the Greek “ιλασμος”, an appeasing, propitiating, or the means of appeasement or propitiation—the sacrifice that turns away God’s wrath because of our sin. ] for our sins, and not for ours only, but also for the whole world.
@@ -51,7 +51,7 @@ _World English Bible (WEB) — public domain._
 ^28^ Now, little children, remain in him, that when he appears, we may have boldness and not be ashamed before him at his coming.
 ^29^ If you know that he is righteous, you know that everyone who practices righteousness has been born of him.
 
-=== Chapter 3
+=== 3
 
 ^1^ See how great a love the Father has given to us, that we should be called children of God! For this cause the world doesn’t know us, because it didn’t know him.
 ^2^ Beloved, now we are children of God. It is not yet revealed what we will be; but we know that when he is revealed, we will be like him, for we will see him just as he is.
@@ -78,7 +78,7 @@ _World English Bible (WEB) — public domain._
 ^23^ This is his commandment, that we should believe in the name of his Son, Jesus Christ, and love one another, even as he commanded.
 ^24^ He who keeps his commandments remains in him, and he in him. By this we know that he remains in us, by the Spirit which he gave us.
 
-=== Chapter 4
+=== 4
 
 ^1^ Beloved, don’t believe every spirit, but test the spirits, whether they are of God, because many false prophets have gone out into the world.
 ^2^ By this you know the Spirit of God: every spirit who confesses that Jesus Christ has come in the flesh is of God,
@@ -102,7 +102,7 @@ _World English Bible (WEB) — public domain._
 ^20^ If a man says, “I love God,” and hates his brother, he is a liar; for he who doesn’t love his brother whom he has seen, how can he love God whom he has not seen?
 ^21^ This commandment we have from him, that he who loves God should also love his brother.
 
-=== Chapter 5
+=== 5
 
 ^1^ Whoever believes that Jesus is the Christ has been born of God. Whoever loves the Father also loves the child who is born of him.
 ^2^ By this we know that we love the children of God, when we love God and keep his commandments.

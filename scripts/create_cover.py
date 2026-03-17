@@ -16,7 +16,7 @@ PROJECT_DIR = Path(__file__).parent.parent
 COVER_DIR = PROJECT_DIR / "cover"
 
 # KDP hardcover case laminate dimensions
-PAGE_COUNT = 174
+PAGE_COUNT = 143
 DPI = 300
 
 # Cover dimensions (inches)
@@ -75,7 +75,7 @@ def find_font(paths, size):
     return ImageFont.load_default()
 
 # Font sizes (in pixels at 300 DPI)
-title_font = find_font(FONT_PATHS, int(72 * DPI / 72))  # 72pt
+title_font = find_font(FONT_PATHS, int(42 * DPI / 72))  # 42pt
 subtitle_font = find_font(FONT_PATHS_REGULAR, int(18 * DPI / 72))  # 18pt
 version_font = find_font(FONT_PATHS_REGULAR, int(14 * DPI / 72))  # 14pt
 spine_font = find_font(FONT_PATHS, int(14 * DPI / 72))  # 14pt for spine
@@ -85,34 +85,24 @@ front_left = (BACK_WIDTH + BLEED + SPINE_WIDTH + BLEED) * DPI
 front_center_x = front_left + (FRONT_WIDTH * DPI) / 2
 front_center_y = HEIGHT_PX / 2
 
-# Draw title on front cover — "Yeshu min" on line 1, "Natzrat" on line 2
-title_line1 = "Yeshu min"
-title_line2 = "Natzrat"
+# Draw title on front cover — single line
+title_text = "Yeshu min Natzrat"
 
-bbox1 = draw.textbbox((0, 0), title_line1, font=title_font)
-bbox2 = draw.textbbox((0, 0), title_line2, font=title_font)
-line1_w = bbox1[2] - bbox1[0]
-line2_w = bbox2[2] - bbox2[0]
-line_h = bbox1[3] - bbox1[1]
-line_gap = int(20 * DPI / 72)  # 20pt gap
-
-total_text_h = (line_h * 2) + line_gap
-title_top_y = front_center_y - total_text_h / 2 - int(0.5 * DPI)  # Shift up slightly
+bbox_title = draw.textbbox((0, 0), title_text, font=title_font)
+title_w = bbox_title[2] - bbox_title[0]
+title_h = bbox_title[3] - bbox_title[1]
+title_y = front_center_y - title_h / 2 - int(0.5 * DPI)  # Shift up slightly
 
 draw.text(
-    (front_center_x - line1_w / 2, title_top_y),
-    title_line1, fill=GOLD, font=title_font,
-)
-draw.text(
-    (front_center_x - line2_w / 2, title_top_y + line_h + line_gap),
-    title_line2, fill=GOLD, font=title_font,
+    (front_center_x - title_w / 2, title_y),
+    title_text, fill=GOLD, font=title_font,
 )
 
 # Subtitle below title
 subtitle = "A Compiled Canon of the Earliest Teachings"
 bbox_sub = draw.textbbox((0, 0), subtitle, font=subtitle_font)
 sub_w = bbox_sub[2] - bbox_sub[0]
-sub_y = title_top_y + (line_h * 2) + line_gap + int(60 * DPI / 72)
+sub_y = title_y + title_h + int(60 * DPI / 72)
 draw.text(
     (front_center_x - sub_w / 2, sub_y),
     subtitle, fill=SUBTITLE_COLOR, font=subtitle_font,
@@ -142,7 +132,7 @@ if SPINE_WIDTH * DPI > spine_text_h + 10:
     spine_img = Image.new("RGBA", (spine_text_w + 20, spine_text_h + 20), (0, 0, 0, 0))
     spine_draw = ImageDraw.Draw(spine_img)
     spine_draw.text((10, 10), spine_text, fill=GOLD, font=spine_font)
-    spine_rotated = spine_img.rotate(90, expand=True)
+    spine_rotated = spine_img.rotate(-90, expand=True)
 
     # Paste rotated spine text
     paste_x = int(spine_center_x - spine_rotated.width / 2)
@@ -150,7 +140,7 @@ if SPINE_WIDTH * DPI > spine_text_h + 10:
     img.paste(spine_rotated, (paste_x, paste_y), spine_rotated)
 
 # Add a subtle decorative line on front cover
-line_y = int(sub_y - 30 * DPI / 72)
+line_y = int(sub_y - 20 * DPI / 72)
 line_half_w = int(1.5 * DPI)  # 1.5" half-width
 draw.line(
     [(int(front_center_x - line_half_w), line_y),

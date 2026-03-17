@@ -2,12 +2,12 @@
 _Matthew 5–7_
 
 ****
-_The Sermon on the Mount is the longest continuous block of Jesus’s teaching in the New Testament. Scholars believe much of it derives from the Q source — a hypothetical early sayings collection predating all four Gospels. It contains the Beatitudes, the Lord’s Prayer, and the core of Jesus’s ethical teaching: love your enemies, do not judge, treat others as you would be treated._
+The Sermon on the Mount is the longest continuous block of Jesus’s teaching in the New Testament. Scholars believe much of it derives from the Q source — a hypothetical early sayings collection predating all four Gospels. It contains the Beatitudes, the Lord’s Prayer, and the core of Jesus’s ethical teaching: love your enemies, do not judge, treat others as you would be treated.
 
-_World English Bible (WEB) — public domain._
+World English Bible (WEB) — public domain.
 ****
 
-=== Chapter 5
+=== 5
 
 ^1^ Seeing the multitudes, he went up onto the mountain. When he had sat down, his disciples came to him.
 ^2^ He opened his mouth and taught them, saying,
@@ -58,7 +58,7 @@ _World English Bible (WEB) — public domain._
 ^47^ If you only greet your friends, what more do you do than others? Don’t even the tax collectorsfootnote:[NU reads “Gentiles” instead of “tax collectors”.] do the same?
 ^48^ Therefore you shall be perfect, just as your Father in heaven is perfect.
 
-=== Chapter 6
+=== 6
 
 ^1^ “Be careful that you don’t do your charitable givingfootnote:[NU reads “acts of righteousness” instead of “charitable giving”] before men, to be seen by them, or else you have no reward from your Father who is in heaven.
 ^2^ Therefore, when you do merciful deeds, don’t sound a trumpet before yourself, as the hypocrites do in the synagogues and in the streets, that they may get glory from men. Most certainly I tell you, they have received their reward.
@@ -95,7 +95,7 @@ _World English Bible (WEB) — public domain._
 ^33^ But seek first God’s Kingdom and his righteousness; and all these things will be given to you as well.
 ^34^ Therefore don’t be anxious for tomorrow, for tomorrow will be anxious for itself. Each day’s own evil is sufficient.
 
-=== Chapter 7
+=== 7
 
 ^1^ “Don’t judge, so that you won’t be judged.
 ^2^ For with whatever judgment you judge, you will be judged; and with whatever measure you measure, it will be measured to you.
