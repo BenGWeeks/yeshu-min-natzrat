@@ -11,6 +11,8 @@ Every canon is a set of choices. The canon assembled at the councils of Nicaea a
 
 We are making choices too. The difference is that we are transparent about ours. Every inclusion and exclusion in this canon is explained in this foreword, with reasoning you can examine, challenge, and disagree with. We have no emperor behind us and no council to enforce conformity. We have only the texts themselves, the best available scholarship, and a simple question: what did Yeshu of Nazareth actually teach?
 
+This canon is open source. The entire project — source texts, build scripts, foreword, and editorial decisions — is publicly available on GitHub. You can fork it. You can make your own choices about which books belong and which do not. You can add texts we excluded, remove texts we included, write your own foreword, and publish your own version. No permission is needed and none is required. The earliest teachings of Yeshu belong to everyone. So does the right to compile them.
+
 
 === Who Is Yeshu in This Canon?
 

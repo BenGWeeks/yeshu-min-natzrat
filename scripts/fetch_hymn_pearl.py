@@ -45,6 +45,43 @@ ROMAN_MAP = {
 }
 
 
+def _merge_lines(raw_lines: list[str]) -> list[str]:
+    """Merge short orphaned line fragments into proper couplets.
+
+    The gnosis.org HTML breaks the poem at arbitrary points, creating
+    fragments like '"[The' on one line and 'Pearl] that lies in the Sea'
+    on the next. This function joins them into single lines.
+
+    Strategy: a line with <= 2 words is a fragment. Merge it forward
+    into the next line (not backward) to form a complete couplet.
+    """
+    if not raw_lines:
+        return []
+
+    # Forward merge pass: short lines get joined with the next line
+    merged = []
+    i = 0
+    while i < len(raw_lines):
+        line = raw_lines[i]
+        # If this line is very short (1-2 words) and there's a next line,
+        # merge forward
+        while (len(line.split()) <= 2
+               and i + 1 < len(raw_lines)
+               and not line.rstrip().endswith((".", "!", "?", '"'))):
+            i += 1
+            line = line + " " + raw_lines[i]
+        # Also check: if the next line starts lowercase, it's a continuation
+        if (i + 1 < len(raw_lines)
+                and raw_lines[i + 1]
+                and raw_lines[i + 1][0].islower()):
+            i += 1
+            line = line + " " + raw_lines[i]
+        merged.append(line)
+        i += 1
+
+    return merged
+
+
 def fetch_and_convert():
     """Fetch Hymn of the Pearl and convert to USFM then AsciiDoc."""
     soup = fetch_html(URL)
@@ -80,47 +117,33 @@ def fetch_and_convert():
         if roman_match:
             # Save previous stanza
             if current_stanza is not None and current_lines:
+                merged = _merge_lines(current_lines)
                 chapters.append({
                     "number": current_stanza,
                     "heading": f"Stanza {current_stanza}",
-                    "verses": current_lines,
+                    "verses": [{"number": i + 1, "text": l}
+                               for i, l in enumerate(merged)],
                     "poetry": True,
                 })
             roman = roman_match.group(1)
             current_stanza = ROMAN_MAP.get(roman, current_stanza + 1)
             current_lines = []
-            line_counter = 0
             continue
 
         # Skip empty lines
         if not line:
             continue
 
-        # Join orphaned short fragments with the previous line.
-        # The gnosis.org HTML breaks lines at arbitrary points, creating
-        # fragments like "Large" / "was it, yet was it so light" that
-        # should be a single line: "Large was it, yet was it so light"
-        if (current_lines
-                and len(line.split()) <= 3
-                and line[0].islower()):
-            # This is a continuation of the previous line
-            current_lines[-1]["text"] += " " + line
-        elif (current_lines
-                and len(current_lines[-1]["text"].split()) <= 2
-                and not current_lines[-1]["text"].startswith('"')):
-            # Previous line was too short — merge this into it
-            current_lines[-1]["text"] += " " + line
-        else:
-            # New poem line
-            line_counter += 1
-            current_lines.append({"number": line_counter, "text": line})
+        current_lines.append(line)
 
     # Save last stanza
     if current_stanza is not None and current_lines:
+        merged = _merge_lines(current_lines)
         chapters.append({
             "number": current_stanza,
             "heading": f"Stanza {current_stanza}",
-            "verses": current_lines,
+            "verses": [{"number": i + 1, "text": l}
+                       for i, l in enumerate(merged)],
             "poetry": True,
         })
 
