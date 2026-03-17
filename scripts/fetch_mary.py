@@ -82,6 +82,13 @@ def fetch_and_convert():
         if re.match(r"^\d{1,2}$", line):
             page_num = int(line)
             if 7 <= page_num <= 19:
+                # Check if the last verse of the current page ends mid-sentence
+                # (no terminal punctuation). If so, the next line continues it.
+                pending_join = False
+                if current_verses:
+                    last_text = current_verses[-1]["text"].rstrip()
+                    if last_text and last_text[-1] not in ".!?\"'\u201d\u2019)]:":
+                        pending_join = True
                 # Save previous page
                 if current_page is not None and current_verses:
                     chapters.append({
@@ -89,6 +96,7 @@ def fetch_and_convert():
                         "heading": f"Page {current_page}",
                         "verses": current_verses,
                         "poetry": False,
+                        "_pending_join": pending_join,
                     })
                 current_page = page_num
                 current_verses = []
@@ -116,7 +124,8 @@ def fetch_and_convert():
             continue
 
         if any(stop in line.lower() for stop in [
-            "according to mary", "copyright", "gospels.net",
+            "according to mary", "according to", "copyright",
+            "gospels.net", "notes on translation",
         ]):
             break
 
@@ -125,14 +134,41 @@ def fetch_and_convert():
             verse_counter += 1
             current_verses.append({"number": verse_counter, "text": line})
 
-    # Save last page
+    # Save last page — truncate at colophon/notes if present
     if current_page is not None and current_verses:
-        chapters.append({
-            "number": current_page,
-            "heading": f"Page {current_page}",
-            "verses": current_verses,
-            "poetry": False,
-        })
+        # Trim trailing notes/colophon from last page
+        clean_verses = []
+        for v in current_verses:
+            if any(stop in v["text"].lower() for stop in [
+                "according to", "notes on translation",
+            ]):
+                break
+            clean_verses.append(v)
+        if clean_verses:
+            chapters.append({
+                "number": current_page,
+                "heading": f"Page {current_page}",
+                "verses": clean_verses,
+                "poetry": False,
+            })
+
+    # Post-process: join sentences that were split across page boundaries.
+    # If a page was marked as _pending_join, append the first verse of the
+    # next page to the last verse of that page.
+    for i in range(len(chapters) - 1):
+        if chapters[i].get("_pending_join") and chapters[i + 1]["verses"]:
+            # Join the first verse of next page into last verse of this page
+            continuation = chapters[i + 1]["verses"][0]["text"]
+            chapters[i]["verses"][-1]["text"] += " " + continuation
+            # Remove the joined verse from the next page
+            chapters[i + 1]["verses"] = chapters[i + 1]["verses"][1:]
+            # Renumber remaining verses
+            for j, v in enumerate(chapters[i + 1]["verses"], 1):
+                v["number"] = j
+
+    # Clean up the _pending_join markers
+    for ch in chapters:
+        ch.pop("_pending_join", None)
 
     # Write USFM
     usfm_path = SOURCES_DIR / "MRY.usfm"

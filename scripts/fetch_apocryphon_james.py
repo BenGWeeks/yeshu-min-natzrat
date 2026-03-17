@@ -89,6 +89,12 @@ def fetch_and_convert():
         if re.match(r"^\d{1,2}$", line):
             page_num = int(line)
             if 1 <= page_num <= 16:
+                # Check if last verse ends mid-sentence
+                pending_join = False
+                if current_verses:
+                    last_text = current_verses[-1]["text"].rstrip()
+                    if last_text and last_text[-1] not in ".!?\"'\u201d\u2019)]:":
+                        pending_join = True
                 # Save previous page
                 if current_page is not None and current_verses:
                     chapters.append({
@@ -96,6 +102,7 @@ def fetch_and_convert():
                         "heading": f"Page {current_page}",
                         "verses": current_verses,
                         "poetry": False,
+                        "_pending_join": pending_join,
                     })
                 current_page = page_num
                 current_verses = []
@@ -110,6 +117,7 @@ def fetch_and_convert():
         if any(stop in line.lower() for stop in [
             "copyright", "privacy policy", "cookie",
             "the secret book", "according to james",
+            "notes on translation", "according to",
         ]):
             break
 
@@ -122,14 +130,33 @@ def fetch_and_convert():
             verse_counter += 1
             current_verses.append({"number": verse_counter, "text": line})
 
-    # Save last page
+    # Save last page — truncate at colophon/notes
     if current_page is not None and current_verses:
+        clean_verses = []
+        for v in current_verses:
+            if any(stop in v["text"].lower() for stop in [
+                "according to", "notes on translation",
+            ]):
+                break
+            clean_verses.append(v)
+        current_verses = clean_verses if clean_verses else current_verses
         chapters.append({
             "number": current_page,
             "heading": f"Page {current_page}",
             "verses": current_verses,
             "poetry": False,
         })
+
+    # Post-process: join sentences split across page boundaries
+    for i in range(len(chapters) - 1):
+        if chapters[i].get("_pending_join") and chapters[i + 1]["verses"]:
+            continuation = chapters[i + 1]["verses"][0]["text"]
+            chapters[i]["verses"][-1]["text"] += " " + continuation
+            chapters[i + 1]["verses"] = chapters[i + 1]["verses"][1:]
+            for j, v in enumerate(chapters[i + 1]["verses"], 1):
+                v["number"] = j
+    for ch in chapters:
+        ch.pop("_pending_join", None)
 
     # Write USFM
     usfm_path = SOURCES_DIR / "AJA.usfm"
