@@ -222,12 +222,11 @@ def usfm_to_adoc(
     if subtitle:
         lines.append(f"_{subtitle}_")
     lines.append("")
-    lines.append("[.lead]")
-    lines.append(intro)
+    lines.append("****")
+    lines.append(f"_{intro}_")
     lines.append("")
     lines.append(f"_{attribution}_")
-    lines.append("")
-    lines.append("'''")
+    lines.append("****")
     lines.append("")
 
     chapters = usfm_data["chapters"]

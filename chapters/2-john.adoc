@@ -1,11 +1,10 @@
 == The Second Letter of John
 
-[.lead]
-A brief letter from “the Elder” reinforcing the love commandment and warning against those who deny that Jesus came in the flesh. Its brevity reflects the simplicity of the original message: love one another.
+****
+_A brief letter from “the Elder” reinforcing the love commandment and warning against those who deny that Jesus came in the flesh. Its brevity reflects the simplicity of the original message: love one another._
 
 _World English Bible (WEB) — public domain._
-
-'''
+****
 
 ^1^ The elder, to the chosen lady and her children, whom I love in truth, and not I only, but also all those who know the truth,
 ^2^ for the truth’s sake, which remains in us, and it will be with us forever:

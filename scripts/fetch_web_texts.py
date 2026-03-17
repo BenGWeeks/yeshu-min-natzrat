@@ -191,6 +191,10 @@ def main():
         usfm_data = read_usfm(usfm_path)
         # Override title from USFM header with our custom title
         usfm_data["title"] = info["title"]
+        # Force prose format (WEB USFM marks Beatitudes etc. as poetry
+        # with \q markers, but we want consistent verse-numbered prose)
+        for ch in usfm_data["chapters"]:
+            ch["poetry"] = False
         adoc = usfm_to_adoc(
             usfm_data,
             intro=info["intro"],

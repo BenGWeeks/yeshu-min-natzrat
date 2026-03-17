@@ -9,8 +9,8 @@ page:
 
 base:
   font_family: Noto Serif
-  font_size: 11
-  line_height_length: 15.4
+  font_size: 10
+  line_height_length: 14
   line_height: 1.4
   font_color: #333333
 
@@ -26,7 +26,7 @@ heading:
   h2_align: center
   h3_font_size: 14
   chapter_break_before: always
-  part_break_before: always
+  part_break_before: auto
 
 title_page:
   align: center

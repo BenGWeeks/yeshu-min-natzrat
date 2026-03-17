@@ -1,16 +1,15 @@
 == The Hymn of the Pearl
 _From the Acts of Thomas_
 
-[.lead]
-The Hymn of the Pearl (also called the Hymn of the Soul) is embedded within the Acts of Thomas, a 3rd-century text about the apostle Thomas’s journey to India. The hymn itself may be older than its narrative frame.
+****
+_The Hymn of the Pearl (also called the Hymn of the Soul) is embedded within the Acts of Thomas, a 3rd-century text about the apostle Thomas’s journey to India. The hymn itself may be older than its narrative frame.
 
 It tells the story of a prince sent from the Kingdom of Light into Egypt to retrieve a pearl guarded by a serpent. In Egypt, the prince forgets his identity and his mission. A letter from home awakens him. He retrieves the pearl, puts on his robe of glory, and returns to his Father’s Kingdom.
 
-This is the canon’s creation myth: the soul descends into matter, forgets its divine origin, is awakened by the teaching, and returns home. The Gospel of Thomas points toward the same truth from within: “If they say to you, ‘Where did you come from?’, say to them, ‘We came from the light.’”
+This is the canon’s creation myth: the soul descends into matter, forgets its divine origin, is awakened by the teaching, and returns home. The Gospel of Thomas points toward the same truth from within: “If they say to you, ‘Where did you come from?’, say to them, ‘We came from the light.’”_
 
 _Translation by G.R.S. Mead — public domain (pre-1923)._
-
-'''
+****
 
 === Stanza 1
 
@@ -434,7 +433,7 @@ To
 whom the whole of His Servants
 With sweet-sounding voices sing praises.
 *
-* * * *
+* *
 He
 had promised that with him to the Court
 Of the King of Kings I should speed,

@@ -1,15 +1,12 @@
 == The Gospel of Thomas
 
-[.lead]
-The Gospel of Thomas is a collection of 114 sayings attributed to Jesus, discovered in 1945 at Nag Hammadi, Egypt. It contains no narrative, no miracles, no crucifixion, no resurrection. Just sayings — many with close parallels to the Q source that underlies Matthew and Luke. Thomas presents Jesus as a wisdom teacher who points toward an interior Kingdom: “the Kingdom of the Father is spread out upon the earth, and people do not see it.”
+****
+_The Gospel of Thomas is a collection of 114 sayings attributed to Jesus, discovered in 1945 at Nag Hammadi, Egypt. It contains no narrative, no miracles, no crucifixion, no resurrection. Just sayings — many with close parallels to the Q source that underlies Matthew and Luke. Thomas presents Jesus as a wisdom teacher who points toward an interior Kingdom: “the Kingdom of the Father is spread out upon the earth, and people do not see it.”
 
-The text begins: “These are the secret sayings which the living Jesus spoke and which Didymos Judas Thomas wrote down.” Thomas is called “the Twin” (Didymos in Greek, Toma in Aramaic) — Jesus’s spiritual twin, the disciple who understood most completely what Jesus was pointing at.
+The text begins: “These are the secret sayings which the living Jesus spoke and which Didymos Judas Thomas wrote down.” Thomas is called “the Twin” (Didymos in Greek, Toma in Aramaic) — Jesus’s spiritual twin, the disciple who understood most completely what Jesus was pointing at._
 
 _Translation by Mark M. Mattison — gospels.net, public domain._
-
-'''
-
-__These are the hidden sayings that the living Jesus spoke and Didymos Judas Thomas wrote down.__
+****
 
 *Saying 1.* And he said, "Whoever discovers the meaning of these sayings won't taste death."
 

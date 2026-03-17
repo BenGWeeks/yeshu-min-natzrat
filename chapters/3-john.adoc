@@ -1,11 +1,10 @@
 == The Third Letter of John
 
-[.lead]
-The shortest book in the New Testament. A personal letter from the Elder about community hospitality and the danger of leaders who love to be first. A window into early Christian community practice before institutional hierarchy hardened.
+****
+_The shortest book in the New Testament. A personal letter from the Elder about community hospitality and the danger of leaders who love to be first. A window into early Christian community practice before institutional hierarchy hardened._
 
 _World English Bible (WEB) — public domain._
-
-'''
+****
 
 ^1^ The elder to Gaius the beloved, whom I love in truth.
 ^2^ Beloved, I pray that you may prosper in all things and be healthy, even as your soul prospers.

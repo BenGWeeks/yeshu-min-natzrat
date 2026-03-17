@@ -1,11 +1,10 @@
 == The First Letter of John
 
-[.lead]
-1 John contains the statement “God is love” — perhaps the most concise summary of what Jesus actually taught. Written by “the Elder” (not the apostle John), it is independent of Paul’s theology. Its test of authentic faith is simple: do you love? Then you know God. Do you not love? Then you do not know God, no matter what you believe.
+****
+_1 John contains the statement “God is love” — perhaps the most concise summary of what Jesus actually taught. Written by “the Elder” (not the apostle John), it is independent of Paul’s theology. Its test of authentic faith is simple: do you love? Then you know God. Do you not love? Then you do not know God, no matter what you believe._
 
 _World English Bible (WEB) — public domain._
-
-'''
+****
 
 === Chapter 1
 

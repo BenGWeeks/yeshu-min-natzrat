@@ -1,16 +1,15 @@
 == The Didache
 _The Teaching of the Twelve Apostles_
 
-[.lead]
-The Didache (“The Teaching”) is the earliest surviving Christian community manual, likely dating to the late first or early second century. It was lost for centuries and rediscovered in 1873 in a monastery in Constantinople.
+****
+_The Didache (“The Teaching”) is the earliest surviving Christian community manual, likely dating to the late first or early second century. It was lost for centuries and rediscovered in 1873 in a monastery in Constantinople.
 
 It opens with the “Two Ways” — the Way of Life and the Way of Death — and provides practical instructions for baptism, fasting, prayer, and community life. It contains a version of the Lord’s Prayer and instructions for the Eucharist that predate all known liturgies.
 
-The Didache is remarkable for what it does not contain: no atonement theology, no Pauline framework, no cosmic Christ. Its Christianity is purely ethical — a community trying to live by Jesus’s actual teaching.
+The Didache is remarkable for what it does not contain: no atonement theology, no Pauline framework, no cosmic Christ. Its Christianity is purely ethical — a community trying to live by Jesus’s actual teaching._
 
 _Roberts-Donaldson translation (1885) — public domain._
-
-'''
+****
 
 === Chapter 1
 
@@ -274,3 +273,9 @@ _Roberts-Donaldson translation (1885) — public domain._
 ^16^ of the sound of the trumpet. And third, the resurrection of the dead
 ^17^ -- yet not of all, but as it is said: "The Lord shall come and all His saints
 ^18^ with Him." Then shall the world see the Lord coming upon the clouds of heaven.
+^19^ Chronological List
+^20^ to support the site, view it without ads, and get bonus stuff!
+^21^ Peter Kirby
+^22^ Follow @mrpeterkirby
+^23^ Kirby, Peter. "Historical Jesus Theories."
+^24^ (http://www.earlychristianwritings.com/text/1clement-hoole.html).
