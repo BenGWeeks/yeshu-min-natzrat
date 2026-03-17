@@ -6,7 +6,7 @@ The Letter of James is possibly the earliest text in the New Testament, written 
 World English Bible (WEB) — public domain.
 ****
 
-=== 1
+=== Chapter 1
 
 ^1^ James, a servant of God and of the Lord Jesus Christ,footnote:[“Christ” means “Anointed One”.] to the twelve tribes which are in the Dispersion: Greetings.
 ^2^ Count it all joy, my brothers,footnote:[The word for “brothers” here and where context allows may also be correctly translated “brothers and sisters” or “siblings.”] when you fall into various temptations,
@@ -36,7 +36,7 @@ World English Bible (WEB) — public domain.
 ^26^ If anyone among you thinks himself to be religious while he doesn’t bridle his tongue, but deceives his heart, this man’s religion is worthless.
 ^27^ Pure religion and undefiled before our God and Father is this: to visit the fatherless and widows in their affliction, and to keep oneself unstained by the world.
 
-=== 2
+=== Chapter 2
 
 ^1^ My brothers, don’t hold the faith of our glorious Lord Jesus Christ with partiality.
 ^2^ For if a man with a gold ring, in fine clothing, comes into your synagogue,footnote:[or, meeting] and a poor man in filthy clothing also comes in,
@@ -65,7 +65,7 @@ World English Bible (WEB) — public domain.
 ^25^ In the same way, wasn’t Rahab the prostitute also justified by works when she received the messengers and sent them out another way?
 ^26^ For as the body apart from the spirit is dead, even so faith apart from works is dead.
 
-=== 3
+=== Chapter 3
 
 ^1^ Let not many of you be teachers, my brothers, knowing that we will receive heavier judgment.
 ^2^ For we all stumble in many things. Anyone who doesn’t stumble in word is a perfect person, able to bridle the whole body also.
@@ -86,7 +86,7 @@ World English Bible (WEB) — public domain.
 ^17^ But the wisdom that is from above is first pure, then peaceful, gentle, reasonable, full of mercy and good fruits, without partiality, and without hypocrisy.
 ^18^ Now the fruit of righteousness is sown in peace by those who make peace.
 
-=== 4
+=== Chapter 4
 
 ^1^ Where do wars and fightings among you come from? Don’t they come from your pleasures that war in your members?
 ^2^ You lust, and don’t have. You murder and covet, and can’t obtain. You fight and make war. You don’t have, because you don’t ask.
@@ -106,7 +106,7 @@ World English Bible (WEB) — public domain.
 ^16^ But now you glory in your boasting. All such boasting is evil.
 ^17^ To him therefore who knows to do good and doesn’t do it, to him it is sin.
 
-=== 5
+=== Chapter 5
 
 ^1^ Come now, you rich, weep and howl for your miseries that are coming on you.
 ^2^ Your riches are corrupted and your garments are moth-eaten.

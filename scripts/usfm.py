@@ -238,7 +238,7 @@ def usfm_to_adoc(
             lines.append(f"=== {ch['heading']}")
             lines.append("")
         elif multi_chapter:
-            lines.append(f"=== {ch['number']}")
+            lines.append(f"=== Chapter {ch['number']}")
             lines.append("")
 
         is_poetry = ch.get("poetry", False) or poetry_format

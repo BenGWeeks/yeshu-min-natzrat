@@ -2,16 +2,12 @@
 _The Teaching of the Twelve Apostles_
 
 ****
-The Didache (“The Teaching”) is the earliest surviving Christian community manual, likely dating to the late first or early second century. It was lost for centuries and rediscovered in 1873 in a monastery in Constantinople.
-
-It opens with the “Two Ways” — the Way of Life and the Way of Death — and provides practical instructions for baptism, fasting, prayer, and community life. It contains a version of the Lord’s Prayer and instructions for the Eucharist that predate all known liturgies.
-
-The Didache is remarkable for what it does not contain: no atonement theology, no Pauline framework, no cosmic Christ. Its Christianity is purely ethical — a community trying to live by Jesus’s actual teaching.
+The Didache...
 
 Roberts-Donaldson translation (1885) — public domain.
 ****
 
-=== 1
+=== Chapter 1
 
 ^1^ There are two ways,
 ^2^ one of life and one of death, but a great difference between the two ways. The
@@ -35,7 +31,7 @@ Roberts-Donaldson translation (1885) — public domain.
 ^20^ concerning this, it has been said, Let your alms sweat in your hands, until you
 ^21^ know to whom you should give.
 
-=== 2
+=== Chapter 2
 
 ^1^ And the second
 ^2^ commandment of the Teaching; You shall not commit murder, you shall not commit
@@ -53,7 +49,7 @@ Roberts-Donaldson translation (1885) — public domain.
 ^14^ but some you shall reprove, and concerning some you shall pray, and some you
 ^15^ shall love more than your own life.
 
-=== 3
+=== Chapter 3
 
 ^1^ My child, flee from every evil thing,
 ^2^ and from every likeness of it. Be not prone to anger, for anger leads to
@@ -74,7 +70,7 @@ Roberts-Donaldson translation (1885) — public domain.
 ^17^ lowly ones shall it have its intercourse. Accept whatever happens to you as
 ^18^ good, knowing that apart from God nothing comes to pass.
 
-=== 4
+=== Chapter 4
 
 ^1^ My child, remember night and day him who
 ^2^ speaks the word of God to you, and honor him as you do the Lord. For wherever
@@ -100,7 +96,7 @@ Roberts-Donaldson translation (1885) — public domain.
 ^22^ therefrom. In the church you shall acknowledge your transgressions, and you
 ^23^ shall not come near for your prayer with an evil conscience. This is the way of
 
-=== 5
+=== Chapter 5
 
 ^1^ And the way of death is this: First of
 ^2^ all it is evil and accursed: murders, adultery, lust, fornication, thefts,
@@ -116,7 +112,7 @@ Roberts-Donaldson translation (1885) — public domain.
 ^12^ is distressed, advocates of the rich, lawless judges of the poor, utter sinners.
 ^13^ Be delivered, children, from all these.
 
-=== 6
+=== Chapter 6
 
 ^1^ no one causes you to err from this way of the Teaching, since apart from God it
 ^2^ teaches you. For if you are able to bear the entire yoke of the Lord, you will
@@ -124,7 +120,7 @@ Roberts-Donaldson translation (1885) — public domain.
 ^4^ concerning food, bear what you are able; but against that which is sacrificed to
 ^5^ idols be exceedingly careful; for it is the service of dead gods.
 
-=== 7
+=== Chapter 7
 
 ^1^ And concerning baptism, baptize this way:
 ^2^ Having first said all these things, baptize into the name of the Father, and of
@@ -135,7 +131,7 @@ Roberts-Donaldson translation (1885) — public domain.
 ^7^ fast, and the baptized, and whoever else can; but you shall order the baptized
 ^8^ to fast one or two days before.
 
-=== 8
+=== Chapter 8
 
 ^1^ But let not your
 ^2^ fasts be with the hypocrites, for they fast on the second and fifth day of the
@@ -149,7 +145,7 @@ Roberts-Donaldson translation (1885) — public domain.
 ^10^ the power and the glory for ever..
 ^11^ Pray this three times each day.
 
-=== 9
+=== Chapter 9
 
 ^1^ Now concerning the Eucharist, give thanks
 ^2^ this way. First, concerning the cup:
@@ -165,7 +161,7 @@ Roberts-Donaldson translation (1885) — public domain.
 ^12^ into the name of the Lord; for concerning this also the Lord has said, "Give not
 ^13^ that which is holy to the dogs."
 
-=== 10
+=== Chapter 10
 
 ^1^ But after you are filled, give
 ^2^ thanks this way:
@@ -184,7 +180,7 @@ Roberts-Donaldson translation (1885) — public domain.
 ^15^ come; if any one is not so, let him repent. Maranatha. Amen.
 ^16^ But permit the prophets to make Thanksgiving as much as they desire.
 
-=== 11
+=== Chapter 11
 
 ^1^ therefore, comes and teaches you all these things that have been said before,
 ^2^ receive him. But if the teacher himself turns and teaches another doctrine to
@@ -208,7 +204,7 @@ Roberts-Donaldson translation (1885) — public domain.
 ^20^ Give me money, or something else, you shall not listen to him. But if he tells
 ^21^ you to give for others' sake who are in need, let no one judge him.
 
-=== 12
+=== Chapter 12
 
 ^1^ But receive everyone who comes in
 ^2^ the name of the Lord, and prove and know him afterward; for you shall have
@@ -219,7 +215,7 @@ Roberts-Donaldson translation (1885) — public domain.
 ^7^ that, as a Christian, he shall not live with you idle. But if he wills not to
 ^8^ do, he is a Christ-monger. Watch that you keep away from such.
 
-=== 13
+=== Chapter 13
 
 ^1^ But every true prophet who wants to
 ^2^ live among you is worthy of his support. So also a true teacher is himself
@@ -232,7 +228,7 @@ Roberts-Donaldson translation (1885) — public domain.
 ^9^ clothing and every possession, take the first-fruit, as it may seem good to you,
 ^10^ and give according to the commandment.
 
-=== 14
+=== Chapter 14
 
 ^1^ But every Lord's day gather
 ^2^ yourselves together, and break bread, and give thanksgiving after having
@@ -242,7 +238,7 @@ Roberts-Donaldson translation (1885) — public domain.
 ^6^ spoken by the Lord: "In every place and time offer to me a pure sacrifice; for I
 ^7^ am a great King, says the Lord, and my name is wonderful among the nations."
 
-=== 15
+=== Chapter 15
 
 ^1^ therefore, for yourselves, bishops and deacons worthy of the
 ^2^ Lord, men meek, and not lovers of money, and truthful and proved; for they also
@@ -253,7 +249,7 @@ Roberts-Donaldson translation (1885) — public domain.
 ^7^ him hear anything from you until he repents. But your prayers and alms and all
 ^8^ your deeds so do, as you have it in the Gospel of our Lord.
 
-=== 16
+=== Chapter 16
 
 ^1^ Watch for your
 ^2^ life's sake. Let not your lamps be quenched, nor your loins unloosed; but be
