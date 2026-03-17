@@ -6,6 +6,8 @@
 :toclevels: 1
 :version: v1.0.3
 
+include::copyright.adoc[]
+
 include::foreword.adoc[]
 
 = Part I: The Sayings Tradition

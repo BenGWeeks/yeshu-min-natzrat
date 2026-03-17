@@ -1,0 +1,24 @@
+[preface]
+== Copyright
+
+*Yeshu min Natzrat* +
+A Compiled Canon of the Earliest Teachings +
+{version}
+
+First published 2026.
+
+ISBN: 978-1-0369-6067-4
+
+The ancient texts in this canon are in the public domain. They belong to no one and to everyone.
+
+To the extent possible under law, the editor has waived all copyright and related or neighbouring rights to the original foreword and editorial content in this work. This book may be freely reproduced, distributed, translated, or adapted without restriction.
+
+CC0 1.0 Universal -- https://creativecommons.org/publicdomain/zero/1.0/
+
+*Translation sources:* +
+World English Bible (WEB) -- public domain. +
+Mark M. Mattison (gospels.net) -- public domain. +
+G.R.S. Mead (Hymn of the Pearl, pre-1923) -- public domain. +
+Roberts-Donaldson (Didache, 1885) -- public domain.
+
+Source texts, build scripts, and editorial decisions are publicly available at https://github.com/BenGWeeks/yeshu-min-natzrat
