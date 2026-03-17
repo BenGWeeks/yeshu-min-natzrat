@@ -43,7 +43,11 @@ def fetch_and_convert():
     """Fetch Didache and convert to USFM then AsciiDoc."""
     soup = fetch_html(URL)
     body = soup.find("body") or soup
-    text = body.get_text("\n")
+    # The page has 3 main divs: breadcrumb, content, site navigation.
+    # Target the content div (second div) to avoid scraping navigation.
+    divs = body.find_all("div", recursive=False)
+    content = divs[1] if len(divs) >= 2 else body
+    text = content.get_text("\n")
     lines_raw = [l.strip() for l in text.split("\n")]
 
     chapters = []

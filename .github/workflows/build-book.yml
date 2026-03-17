@@ -40,13 +40,23 @@ jobs:
 
       - name: Get version
         id: version
-        run: echo "version=$(grep ':version:' book.adoc | sed 's/:version: //')" >> $GITHUB_OUTPUT
+        run: |
+          VERSION=$(grep ':version:' book.adoc | sed 's/:version: //')
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
 
-      - name: Create Release
+      - name: Create or update release
         if: github.ref == 'refs/heads/main'
-        uses: softprops/action-gh-release@v2
-        with:
-          tag_name: ${{ steps.version.outputs.version }}
-          name: Yeshu min Natzrat ${{ steps.version.outputs.version }}
-          files: yeshu-min-natzrat.pdf
-          make_latest: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          VERSION="${{ steps.version.outputs.version }}"
+          # Delete existing release/tag if it exists
+          gh release delete "$VERSION" --yes 2>/dev/null || true
+          git tag -d "$VERSION" 2>/dev/null || true
+          git push origin ":refs/tags/$VERSION" 2>/dev/null || true
+          # Create new release
+          gh release create "$VERSION" \
+            --title "Yeshu min Natzrat $VERSION" \
+            --notes "PDF build from $(git rev-parse --short HEAD)" \
+            --latest \
+            yeshu-min-natzrat.pdf
