@@ -22,19 +22,21 @@ VERSION = _version_match.group(1).strip() if _version_match else "v1.0"
 COVER_DIR = PROJECT_DIR / "cover"
 
 # KDP hardcover case laminate dimensions
-PAGE_COUNT = 143
+# From KDP previewer: expected cover size is 14.154 x 10.417 for 156 pages
+PAGE_COUNT = 156
 DPI = 300
 
-# Cover dimensions (inches)
+# Cover dimensions from KDP's exact requirements for 6x9 hardcover case laminate
+# These include the board wrap (0.591" each side) and spine
+TOTAL_WIDTH = 14.154   # inches — from KDP error message
+HEIGHT = 10.417        # inches — from KDP error message
+SPINE_WIDTH = (PAGE_COUNT * 0.0025) + 0.08  # cream paper + case laminate
+# Back and front cover widths (symmetric, excluding spine)
+FRONT_WIDTH = (TOTAL_WIDTH - SPINE_WIDTH) / 2
+BACK_WIDTH = FRONT_WIDTH
 BLEED = 0.125
-FRONT_WIDTH = 6.0 + BLEED  # 6.125" (bleed on outside edge only)
-BACK_WIDTH = 6.0 + BLEED
-HEIGHT = 9.0 + (2 * BLEED)  # 9.25"
-SPINE_WIDTH = (PAGE_COUNT * 0.002252) + 0.08  # white paper + case laminate
 
-# Add 0.125" bleed to outside edges
-TOTAL_WIDTH = BACK_WIDTH + BLEED + SPINE_WIDTH + BLEED + FRONT_WIDTH
-# back(6.125) + back_inner_bleed(0.125) + spine + front_inner_bleed(0.125) + front(6.125)
+# Total dimensions already set from KDP's exact requirements
 
 print(f"Page count: {PAGE_COUNT}")
 print(f"Spine width: {SPINE_WIDTH:.4f}\"")
@@ -87,7 +89,8 @@ version_font = find_font(FONT_PATHS_REGULAR, int(14 * DPI / 72))  # 14pt
 spine_font = find_font(FONT_PATHS, int(14 * DPI / 72))  # 14pt for spine
 
 # Calculate front cover center
-front_left = (BACK_WIDTH + BLEED + SPINE_WIDTH + BLEED) * DPI
+# Front cover starts after back cover + spine
+front_left = (BACK_WIDTH + SPINE_WIDTH) * DPI
 front_center_x = front_left + (FRONT_WIDTH * DPI) / 2
 front_center_y = HEIGHT_PX / 2
 
@@ -125,7 +128,7 @@ draw.text(
 )
 
 # Draw spine text (rotated)
-spine_center_x = (BACK_WIDTH + BLEED + SPINE_WIDTH / 2) * DPI
+spine_center_x = (BACK_WIDTH + SPINE_WIDTH / 2) * DPI
 spine_text = "Yeshu min Natzrat"
 
 # Create rotated text for spine
