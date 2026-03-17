@@ -75,8 +75,8 @@ def find_font(paths, size):
     return ImageFont.load_default()
 
 # Font sizes (in pixels at 300 DPI)
-title_font = find_font(FONT_PATHS, int(42 * DPI / 72))  # 42pt
-subtitle_font = find_font(FONT_PATHS_REGULAR, int(18 * DPI / 72))  # 18pt
+title_font = find_font(FONT_PATHS, int(36 * DPI / 72))  # 36pt
+subtitle_font = find_font(FONT_PATHS_REGULAR, int(13 * DPI / 72))  # 13pt
 version_font = find_font(FONT_PATHS_REGULAR, int(14 * DPI / 72))  # 14pt
 spine_font = find_font(FONT_PATHS, int(14 * DPI / 72))  # 14pt for spine
 
