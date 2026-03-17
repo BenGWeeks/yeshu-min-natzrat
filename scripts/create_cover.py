@@ -10,9 +10,15 @@ Design: Dark background (#1a1a2e), gold text (#c9a84c), centered title.
 
 from PIL import Image, ImageDraw, ImageFont
 from pathlib import Path
+import re
 import subprocess
 
 PROJECT_DIR = Path(__file__).parent.parent
+
+# Read version from book.adoc
+_book_adoc = (PROJECT_DIR / "book.adoc").read_text()
+_version_match = re.search(r":version:\s*(.+)", _book_adoc)
+VERSION = _version_match.group(1).strip() if _version_match else "v1.0"
 COVER_DIR = PROJECT_DIR / "cover"
 
 # KDP hardcover case laminate dimensions
@@ -109,7 +115,7 @@ draw.text(
 )
 
 # Version at bottom of front cover
-version_text = "v1.0"
+version_text = VERSION
 bbox_ver = draw.textbbox((0, 0), version_text, font=version_font)
 ver_w = bbox_ver[2] - bbox_ver[0]
 ver_y = HEIGHT_PX - int(1.0 * DPI)  # 1" from bottom
